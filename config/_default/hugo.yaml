@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: GN # Website name
-baseURL: 'https://gnadare.github.io/' # Website URL
+baseURL: 'https://example.com/' # Website URL
 
 ############################
 ## LANGUAGE
