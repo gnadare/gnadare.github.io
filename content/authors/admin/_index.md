@@ -32,7 +32,7 @@ interests:
   - Noncommutative Topology
   - Operator Algebras
   - KK-theory
-  - Category Theory
+  - Triangulated Categories
 
 # Education to show in About widget
 education:
@@ -96,12 +96,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:giorgi.nadareishvili@kiu.edu.ge'  
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: hb
     link: https://scholar.google.com/citations?hl=en&user=tmFe0PoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gnadare
+  - icon: arxiv
+    icon_pack: hb
+    link: https://arxiv.org/search/?searchtype=author&query=Nadareishvili%2C+G
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
