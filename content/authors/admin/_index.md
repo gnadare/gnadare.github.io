@@ -99,8 +99,8 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf 
-  - icon: arxiv
-    icon_pack: ai
+  - icon: hb/arxiv
+    icon_pack: hb
     link: https://arxiv.org/search/?searchtype=author&query=Nadareishvili%2C+G
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
