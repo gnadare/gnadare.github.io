@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} George Nadareishvili'
+    notice: '© {year} George Nadareishvili.'
     license:
       enable: true
       allow_derivatives: false
