@@ -198,24 +198,24 @@ sections:
  #     title: Popular Topics
  #   design:
  #     columns: '2'
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+ # - block: contact
+ #   id: contact
+ #   content:
+ #     title: Contact
+ #     subtitle:
+ #     text: |-
+ #       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: giorgi dot nadareishvili at kiu dot edu dot ge
+ #     email: giorgi dot nadareishvili at kiu dot edu dot ge
  #     phone: 888 888 88 88
  #     appointment_url: 'https://calendly.com'
-     address:
-        street: 2, Merab Aleksidze II Lane
-        city: Tbilisi
+ #    address:
+ #       street: 2, Merab Aleksidze II Lane
+ #       city: Tbilisi
  #       region: CA
-        postcode: '0193'
-        country: Georgia 
-        country_code: GE
+ #       postcode: '0193'
+ #       country: Georgia 
+ #       country_code: GE
  #     directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
  #     office_hours:
  #       - 'Monday 10:00 to 13:00'
@@ -247,6 +247,6 @@ sections:
  #       netlify:
  #         # Enable CAPTCHA challenge to reduce spam?
  #         captcha: false
-    design:
-      columns: '2'
+ #   design:
+ #     columns: '2'
 ---
