@@ -23,11 +23,11 @@ all_day: false
 ## Schedule page publish date (NOT talk date).
 #publishDate: '2017-01-01T00:00:00Z'
 
-#authors: []
-#tags: []
+authors: []
+tags: []
 
-## Is this a featured talk? (true/false)
-#featured: false
+# Is this a featured talk? (true/false)
+featured: false
 
 #image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
