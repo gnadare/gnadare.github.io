@@ -95,19 +95,20 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:giorgi.nadareishvili@kiu.edu.ge'  
+    link: 'mailto:giorgi.nadareishvili@kiu.edu.ge' 
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf 
+  - icon: arxiv
+    icon_pack: ai
+    link: https://arxiv.org/search/?searchtype=author&query=Nadareishvili%2C+G
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=tmFe0PoAAAAJ
-  - icon: hb/arxiv
-    # icon_pack: hb
-    link: https://arxiv.org/search/?searchtype=author&query=Nadareishvili%2C+G
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
