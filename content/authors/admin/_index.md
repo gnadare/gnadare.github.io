@@ -114,5 +114,9 @@ social:
 highlight_name: true
 ---
 
-I am an associate professor of Mathematics at Kutaisi International University. My main research interests are in Noncommutative Topology, specifically applying category theoretic techniques to operator algebras and their K-theory. Along with mathematics, I also teach some theoretical computer science courses.
+I am a research mathematician that is mainly interested in Noncommutative Topology, specifically applying category theoretic techniques to operator algebras and their K-theory.
+
+I currently hold an associate professor position at the school of Mathematics and Computer Scinece at Kutaisi International University. I also work as a researcher at A. Razmadze Mathematical Institute and as an expert at the Ministry of Education, Science And Youth of Georgia. 
+
+Along with mathematics, I also teach some theoretical computer science courses.
 {style="text-align: justify;"}
