@@ -45,12 +45,12 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} George Nadareishvili.'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+    notice: '© {year} George Nadareishvili'
+    #license:
+    #  enable: true
+    #  allow_derivatives: false
+    #  share_alike: true
+    #  allow_commercial: false
 
 # Localization
 
