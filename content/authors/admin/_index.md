@@ -97,10 +97,10 @@ social:
     icon_pack: fas
     link: 'mailto:giorgi.nadareishvili@kiu.edu.ge'  
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: hb
+    icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=tmFe0PoAAAAJ
-  - icon: arxiv
-    icon_pack: hb
+  - icon: hb/arxiv
+    # icon_pack: hb
     link: https://arxiv.org/search/?searchtype=author&query=Nadareishvili%2C+G
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
