@@ -198,24 +198,24 @@ sections:
  #     title: Popular Topics
  #   design:
  #     columns: '2'
- # - block: contact
- #   id: contact
- #   content:
- #     title: Contact
+  - block: contact
+    id: contact
+    content:
+      title: Contact
  #     subtitle:
  #     text: |-
  #       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
- #     email: test@example.org
+      email: giorgi dot nadareishvili at kiu dot edu dot ge
  #     phone: 888 888 88 88
  #     appointment_url: 'https://calendly.com'
- #     address:
- #       street: 450 Serra Mall
- #       city: Stanford
+     address:
+        street: 2, Merab Aleksidze II Lane
+        city: Tbilisi
  #       region: CA
- #       postcode: '94305'
- #       country: United States
- #       country_code: US
+        postcode: '0193'
+        country: Georgia 
+        country_code: GE
  #     directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
  #     office_hours:
  #       - 'Monday 10:00 to 13:00'
