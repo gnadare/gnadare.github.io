@@ -11,8 +11,8 @@ address:
   postcode: '0193'
   country: Georgia
 
-#summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-#abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+#summary: We will discuss a universal homological invariant for equivariant KK-category of equivariant C*-algebras with the action of finite groups.
+abstract: 'We will discuss a universal homological invariant for equivariant KK-category of equivariant C*-algebras with the action of finite groups.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -63,10 +63,10 @@ date: '2024-02-22T13:00:00Z'
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
 
-#Slides can be added in a few ways:
+Slides can be added in a few ways:
 
-#- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/#content-types/) feature and link using `slides` parameter in the front matter of the talk file
-#- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front #matter of the talk file
-#- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front #matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
 
-#Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as #image galleries, can be added to the body of this page.
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
