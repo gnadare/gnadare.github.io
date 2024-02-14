@@ -8,5 +8,5 @@ publication_types:
 - book
 publication: 'Proceedings of Algebra, Topology and Analysis: C* and A-infinity
   Algebras 2021'
-link: https://www.tsu.ge/ka/publishing-house/single/1484
+url: https://www.tsu.ge/ka/publishing-house/single/1484
 ---
