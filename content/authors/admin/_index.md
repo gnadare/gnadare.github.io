@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="oyFkaYudFm6Dn6-k-r89z9GmknreVu11Qa3LvFkRi5Q" />
 ---
 # Display name
 title: George Nadareishvili
