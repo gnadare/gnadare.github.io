@@ -1,5 +1,5 @@
 ---
-title: Relative homological algebra for bivariant K-theory
+title: Relative homological algebra for bivariant $K$-theory
 authors:
 - George Nadareishvili
 date: '2023-01-01'
