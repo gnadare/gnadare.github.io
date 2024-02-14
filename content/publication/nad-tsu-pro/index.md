@@ -1,5 +1,5 @@
 ---
-title: 'Algebra, Topology and Analysis: C* and A-infinity Algebras'
+title: 'Algebra, Topology and Analysis: $C^*$ and A-infinity Algebras'
 authors:
 - George Nadareishvili
 date: '2023-01-01'
@@ -8,5 +8,7 @@ publication_types:
 - book
 publication: 'Proceedings of Algebra, Topology and Analysis: C* and A-infinity
   Algebras 2021'
-url: https://www.tsu.ge/ka/publishing-house/single/1484
+links:
+- name: TSU Publ
+  url: https://www.tsu.ge/ka/publishing-house/single/1484
 ---

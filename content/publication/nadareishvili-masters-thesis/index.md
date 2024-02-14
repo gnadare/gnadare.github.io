@@ -6,4 +6,7 @@ date: '2011-01-01'
 publishDate: '2024-02-12T10:20:26.644605Z'
 publication_types:
 - thesis
+links:
+- name: File
+  url: static/uploads/mast.pdf
 ---
