@@ -5,6 +5,7 @@
 
 # Appearance
 
+color: blue
 appearance:
   theme_day: minimal
   theme_night: minimal
