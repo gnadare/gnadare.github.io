@@ -114,11 +114,14 @@ social:
 highlight_name: true
 ---
 
-I am a research mathematician mainly interested in Noncommutative Topology, specifically applying category-theoretic techniques to operator algebras and their K-theory.{style="text-align: justify;"}
+I am a research mathematician mainly interested in Noncommutative Topology, specifically applying category-theoretic techniques to operator algebras and their K-theory.
+{style="text-align: justify;"}
 
 I currently hold an associate professor position at the School of Mathematics and Computer Science at <a href='https://www.kiu.edu.ge/'>Kutaisi International University</a>. I also work as a researcher at <a href='https://rmi.tsu.ge/'>A. Razmadze Mathematical Institute</a> and as an expert at <a href='https://mes.gov.ge/'>the Ministry of Education, Science and Youth of Georgia</a>.
 {style="text-align: justify;"}
 
-Alongside mathematics, I also teach theoretical computer science courses.{style="text-align: justify;"}
+Alongside mathematics, I also teach theoretical computer science courses.
+{style="text-align: justify;"}
 
-I obtained my PhD in 2015 from the Mathematics Institute of <a href='https://www.uni-goettingen.de/'> the University of Göttingen</a>, under the supervision of <a href="https://scholar.google.com/citations?user=WKLNbvUAAAAJ">Ralf Meyer</a>. Before that, I studied at <a href="https://www.tsu.ge/en">Tbilisi State University</a> and wrote my Master's thesis under Alex Patchkoria. {style="text-align: justify;"}
+I obtained my PhD in 2015 from the Mathematics Institute of <a href='https://www.uni-goettingen.de/'> the University of Göttingen</a>, under the supervision of <a href="https://scholar.google.com/citations?user=WKLNbvUAAAAJ">Ralf Meyer</a>. Before that, I studied at <a href="https://www.tsu.ge/en">Tbilisi State University</a> and wrote my Master's thesis under Alex Patchkoria.
+{style="text-align: justify;"}
