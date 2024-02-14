@@ -25,7 +25,7 @@ organizations:
     url: https://www.kiu.edu.ge/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Noncommutative Topology, Operator Algebras and Category Theory.
+bio: I am a research mathematician interested in Noncommutative Topology, Operator Algebras and Category Theory.
 
 # Interests to show in About widget
 interests:
