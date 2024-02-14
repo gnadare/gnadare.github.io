@@ -4,7 +4,7 @@ authors:
 - George Nadareishvili
 date: '2015-01-01'
 publishDate: '2024-02-12T10:20:26.632488Z'
-publication: *PhD Thesis, University of Göttingen*
+publication: 'PhD Thesis, *University of Göttingen*'
 publication_types:
 - thesis
 links:
