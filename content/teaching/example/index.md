@@ -1,22 +1,22 @@
 ---
 title: Example Course
-summary: An example of using the in-built project page.
+summary: An example of course I will put up here.
 tags:
-  - Deep Learning
+  - Theoretical Computer Science
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+#image:
+#  caption: Photo by rawpixel on Unsplash
+#  focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+ # - icon: twitter
+ #   icon_pack: fab
+ #   name: Follow
+ #   url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
