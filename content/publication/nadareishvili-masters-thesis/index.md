@@ -8,6 +8,6 @@ publication_types:
 - thesis
 publication: "Master's thesis, *Tbilisi State University*"
 links:
-- name: File
+- name: PDF
   url: uploads/mast.pdf
 ---
