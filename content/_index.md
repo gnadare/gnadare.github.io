@@ -211,6 +211,7 @@ sections:
    #   phone: 888 888 88 88
    #   appointment_url: 'https://calendly.com'
       address:
+        room: 215
         street: 2, Merab Aleksidze II Lane
         city: Tbilisi
    #     region: CA
