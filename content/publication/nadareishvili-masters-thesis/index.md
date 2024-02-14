@@ -8,5 +8,5 @@ publication_types:
 - thesis
 links:
 - name: File
-  url: static/uploads/mast.pdf
+  url: uploads/mast.pdf
 ---
