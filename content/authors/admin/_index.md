@@ -123,5 +123,5 @@ I currently hold an associate professor position at the School of Mathematics an
 Alongside mathematics, I also teach theoretical computer science courses.
 {style="text-align: justify;"}
 
-I obtained my PhD in 2015 from the Mathematics Institute of <a href='https://www.uni-goettingen.de/'> the University of Göttingen</a>, under the supervision of <a href="https://scholar.google.com/citations?user=WKLNbvUAAAAJ">Ralf Meyer</a>. Before that, I studied at <a href="https://www.tsu.ge/en">Tbilisi State University</a> and wrote my Master's thesis under Alex Patchkoria.
+I obtained my PhD in 2015 from the Mathematics Institute of the <a href='https://www.uni-goettingen.de/'> University of Göttingen</a>, under the supervision of <a href="https://scholar.google.com/citations?user=WKLNbvUAAAAJ">Ralf Meyer</a>. Before that, I studied at <a href="https://www.tsu.ge/en">Tbilisi State University</a> and wrote my Master's thesis under Alex Patchkoria.
 {style="text-align: justify;"}
