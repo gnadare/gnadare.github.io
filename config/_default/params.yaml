@@ -7,7 +7,7 @@
 
 
 appearance:
-  theme_day: themes/my_theme.toml
+  theme_day: my_theme.toml
   theme_night: minimal
   font: minimal
   font_size: M
