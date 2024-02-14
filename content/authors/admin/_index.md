@@ -1,8 +1,7 @@
-<meta name="google-site-verification" content="oyFkaYudFm6Dn6-k-r89z9GmknreVu11Qa3LvFkRi5Q" />
 ---
 # Display name
 title: George Nadareishvili
-
+<meta name="google-site-verification" content="oyFkaYudFm6Dn6-k-r89z9GmknreVu11Qa3LvFkRi5Q" />
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
 
