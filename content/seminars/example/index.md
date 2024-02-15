@@ -1,9 +1,9 @@
 ---
-title: Example Seminar
-summary: An example of a seminar I will put up here.
+title: Category Theory I, Summer 2024
+summary: <i>Category Theory I</i> will commence at Kutaisi International University on February 21, 2024. The sessions will be held on Wednesdays in a location yet to be determined, likely on the G campus. The seminar is designed for mathematics and computer science bachelor students, with the goal of identifying common ground between the two fields.
 tags:
-  - Theoretical Computer Science
-date: '2016-04-27T00:00:00Z'
+  - Category Theory I
+date: '2024-02-21'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -27,7 +27,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ''
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
