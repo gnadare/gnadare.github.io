@@ -250,5 +250,5 @@ sections:
    #       captcha: false
     design:
       columns: '2'
-      view: list
+      view: citation
 ---
