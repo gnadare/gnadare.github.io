@@ -3,7 +3,7 @@ title: Category Theory I, Summer 2024
 summary: <i>Category Theory I</i> will commence at Kutaisi International University on February 21, 2024. The sessions will be held on Wednesdays in a location yet to be determined, likely on the G campus. The seminar is designed for mathematics and computer science bachelor students, with the goal of identifying common ground between the two fields.
 tags:
   - Category Theory I
-#date: '2024-02-21'
+date: '2024-02-21'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
