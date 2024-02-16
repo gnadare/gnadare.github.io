@@ -4,7 +4,8 @@ summary: <i>Category Theory I</i> will commence at Kutaisi International Univers
 tags:
   - Category Theory I
 date: '2024-02-21T11:00:00Z'
-date_end: '2024-06-5T13:00:00Z'
+date_print: 'Every Wednesday'
+#date_end: '2024-06-5T13:00:00Z'
 publishDate: '2017-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
