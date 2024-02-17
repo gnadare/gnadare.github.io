@@ -5,6 +5,7 @@
 
 # Appearance
 
+color: zinc
 
 appearance:
   theme_day: minimal
