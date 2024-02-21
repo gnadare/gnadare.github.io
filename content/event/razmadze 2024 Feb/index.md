@@ -37,7 +37,7 @@ featured: false
 links:
   #- icon: twitter
   #  icon_pack: fab
-    name: Slides in Georgian
+  - name: Slides in Georgian
     url: uploads/Razmadze_2024.pdf
 url_code: ''
 url_pdf: ''
