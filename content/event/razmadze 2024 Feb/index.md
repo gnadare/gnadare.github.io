@@ -12,7 +12,7 @@ address:
   postcode: '0193'
   country: Georgia
 
-summary: We will discuss a universal homological invariant for the KK-category of equivariant C*-algebras with the action of a finite group.
+summary: We will discuss a universal homological invariant for the KK-category of equivariant C*-algebras with the action of a finite group. Depending on the audience, talk might be held in Georgian.
 abstract: 'We will discuss a universal homological invariant for equivariant KK-category of equivariant C*-algebras with the action of a finite group.'
 
 # Talk start and end times.
