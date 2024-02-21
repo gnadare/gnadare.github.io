@@ -37,11 +37,11 @@ featured: false
 links:
   #- icon: twitter
   #  icon_pack: fab
-  #  name: Follow
-  #  url: https://twitter.com/georgecushen
+    name: Slides in Georgian
+    url: uploads/Razmadze_2024.pdf
 url_code: ''
 url_pdf: ''
-url_slides: 'uploads/mast.pdf'
+url_slides: ''
 url_video: ''
 
 # Markdown Slides (optional).
