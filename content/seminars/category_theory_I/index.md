@@ -7,7 +7,6 @@ date: '2024-02-21T11:00:00Z'
 #date_end: '2024-06-5T13:00:00Z'
 publishDate: '2017-01-01T00:00:00Z'
 show_date: false
-date_print: 'Wow'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
