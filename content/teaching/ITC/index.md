@@ -39,7 +39,7 @@ techniques: diagonalization and simulation theorems between
 computational models. We simply do not have other techniques 
 which work (for now, but that is the case since many decades).
 
-Planned course Content by weeks:
+Planned course content by weeks:
 
 1) Regular expressions, finite automata and 
 nondeterminism.
