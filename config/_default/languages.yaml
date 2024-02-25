@@ -9,32 +9,32 @@ en:
   contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-ka:
-  languageCode: ka
-  contentDir: content/ka
-  title: გ. ნადარეიშვილი
-  params:
-    description: 'მკვლევარი მათემატიკოსი და მათემატიკის ექსპერტი'
-  menu:
-    main:
-  - name: მთავარი
-    url: '#about'
-    weight: 10
-  - name: პუბლიკაციები
-    url: '#publications'
-    weight: 20
-  - name: მოხსენებები
-    url: '#talks'
-    weight: 30
-  - name: სწავლება
-    url: '#teaching'
-    weight: 40
-  - name: სემინარები
-    url: '#seminars'
-    weight: 50
-  #- name: Posts
-  #  url: '#posts'
-  #  weight: 60
-  - name: კონტაქტი
-    url: '#contact'
-    weight: 70
+#ka:
+#  languageCode: ka
+#  contentDir: content/ka
+#  title: გ. ნადარეიშვილი
+#  params:
+#    description: 'მკვლევარი მათემატიკოსი და მათემატიკის ექსპერტი'
+#  menu:
+#    main:
+#  - name: მთავარი
+#    url: '#about'
+#    weight: 10
+#  - name: პუბლიკაციები
+#    url: '#publications'
+#    weight: 20
+#  - name: მოხსენებები
+#    url: '#talks'
+#    weight: 30
+#  - name: სწავლება
+#    url: '#teaching'
+#    weight: 40
+#  - name: სემინარები
+#    url: '#seminars'
+#    weight: 50
+#  #- name: Posts
+#  #  url: '#posts'
+#  #  weight: 60
+#  - name: კონტაქტი
+#    url: '#contact'
+#    weight: 70
