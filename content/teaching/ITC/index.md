@@ -62,22 +62,14 @@ theorem.
 15) Applications of Kolmogorov complexit.
 
 During these lectires, we will cover fundamental results present in a more conventional 
-treatment of the subject as well. In particular we will treat:
-
-<ul>
-<li> The Recursion Theorem.</li>
-<li> The two fundamental incompleteness theorems 
-of Goedel.</li>
-<li> The speed up and gap theorems of Manuel Blum
-and Allan Borodin.</li>
-<li> Two fundamental separation theorems between the classic 
-complexity classes of complexity theory.</li>
-<li> Applications of Kolmogorov complexity.</li>
-</ul>
+treatment of the subject as well. In particular we will treat: The Recursion Theorem,
+the two fundamental incompleteness theorems of Gödel, the speed up and gap theorems of Manuel Blum
+and Allan Borodin, two fundamental separation theorems between the classic 
+complexity classes of complexity theory, Applications of Kolmogorov complexity.
 
 Literature used:
 
-<ul style="list-style-type:circle;">
+<ul style="list-style-type:disc;">
 <li> <i>Introduction to the Theory of Computation.</i> Sipser M.,
 Edition	3, engage Learning, (ISBN 1133187811; 9781133187813), (2012).</li>
 <li> <i>Formal Languages and Their Relation to Automata.</i> Hopcroft, J. E.; Ullman, J. D., Addison-Wesley Series in Computer Science and Information Processing. Reading, Mass. etc.: Addison-Wesley Publishing Company. X, 242 p. (1969). </li>
