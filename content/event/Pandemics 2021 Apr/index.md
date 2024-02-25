@@ -13,15 +13,7 @@ location: University of Göttingen (online)
 #  country: 
 
 summary: This was a talk given at the online seminar on Mathematical Modelling of Epidemics organized by Prof. Ralf Meyer at the University of Göttingen. We discussed how to apply Bayesian inference to evaluate the effectiveness of government interventions on the spread of COVID-19.
-abstract: 'This talk was presented at the online seminar on Mathematical Modelling of Epidemics organized by Prof. Ralf Meyer at the University of Göttingen. We first discussed Bayesian inference and then closely followed
-<ul>
-<li> Jonas Dehning, Johannes Zierenberg, F. Paul Spitzner, Michael
-Wibral, Joao Pinheiro Neto, Michael Wilczek, and Viola
-Priesemann. Inferring change points in the spread of COVID-19 reveals the
-effectiveness of interventions. Science 369 (2020), no. 6500.</li>
-</ul>'
-
-This talk was not directly related to my research area; however, I found the topic interesting and decided to feature it. The material should be accessible for bachelor students.'
+abstract: 'This talk was presented at the online seminar on Mathematical Modelling of Epidemics organized by Prof. Ralf Meyer at the University of Göttingen. We first discussed Bayesian inference and then closely followed'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
