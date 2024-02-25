@@ -64,11 +64,13 @@ theorem.
 During these lectires, we will cover fundamental results present in a more conventional 
 treatment of the subject as well. In particular we will treat:
 
-• The Recursion Theorem.
-• The two fundamental incompleteness theorems 
-of Goedel.
-• The speed up and gap theorems of Manuel Blum
-and Allan Borodin.
-• Two fundamental separation theorems between the classic 
-complexity classes of complexity theory.
-• Applications of Kolmogorov complexity.
+<ul>
+<li> The Recursion Theorem.</li>
+<li> The two fundamental incompleteness theorems 
+of Goedel.</li>
+<li> The speed up and gap theorems of Manuel Blum
+and Allan Borodin.</li>
+<li> Two fundamental separation theorems between the classic 
+complexity classes of complexity theory.</li>
+<li> Applications of Kolmogorov complexity.</li>
+</ul>
