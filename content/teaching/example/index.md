@@ -1,5 +1,5 @@
 ---
-title: Introduction to Theory of Computation 2024
+title: Introduction to Theory of Computation, Summer 2024
 summary: 'This class deals with fundamental questions: what is computable, 
 what is not? What is provable and what not? What is computable 
 with feasible effort. The concrete example ‘can RSA be broken with 
