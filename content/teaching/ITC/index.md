@@ -78,17 +78,15 @@ complexity classes of complexity theory.</li>
 Literature used:
 
 <ul style="list-style-type:circle;">
-<li> <i>Introduction to the Theory of Computation.</i> Michael Sipser,
-Edition	3, engage Learning, 2012, ISBN: 1133187811, 9781133187813.</li>
-<li> <i>Formal Languages and Their Relation to Automata.</i> Hopcroft 
-and Ullman, Addison Wesley 1969.</li>
-<li> <i>Compilers - Principles, Techniques and Tools.</i> 
-Aho, Lam, Sethi and Ullman. 
-Because of its cover commonly known as ‘the 
-dragon book’ 
-<li>Wolfgang Paul: Komplexitaetstheorie. Teubner 
-1978. It is in German and out of print, but I am 
+<li> <i>Introduction to the Theory of Computation.</i> Sipser M.,
+Edition	3, engage Learning, (ISBN 1133187811; 9781133187813), (2012).</li>
+<li> <i>Formal Languages and Their Relation to Automata.</i> Hopcroft, J. E.; Ullman, J. D., Addison-Wesley Series in Computer Science and Information Processing. Reading, Mass. etc.: Addison-Wesley Publishing Company. X, 242 p. (1969). </li>
+<li> <i>Compilers. Principles, techniques, and tools.</i> 
+Aho, Alfred V.; Lam, Monica S.; Sethi, Ravi; Ullman, Jeffrey D., Edition 2, Boston, MA: Pearson/Addison Wesley (ISBN 978-0-321-48681-3; 978-0-321-49169-5). xxiv, 1009 p. (2007). 
+Because of its cover commonly known as ‘the dragon book.’ 
+<li><i>Komplexitaetstheorie.</i> Paul W., Teubner 
+(1978). It is in German and out of print, but I am 
 optimistic that the slides will reflect the author’s 
 intentions fairly well.</li>
-<li> Various original articles.</li>
+<li><i>Various original articles.</i></li>
 </ul>
