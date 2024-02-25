@@ -74,7 +74,7 @@ Literature used:
 Edition	3, engage Learning, (ISBN 1133187811; 9781133187813), (2012).</li>
 <li> <i>Formal Languages and Their Relation to Automata.</i> Hopcroft, J. E.; Ullman, J. D., Addison-Wesley Series in Computer Science and Information Processing. Reading, Mass. etc.: Addison-Wesley Publishing Company. X, 242 p. (1969). </li>
 <li> <i>Compilers. Principles, techniques, and tools.</i> 
-Aho, Alfred V.; Lam, Monica S.; Sethi, Ravi; Ullman, Jeffrey D., Edition 2, Boston, MA: Pearson/Addison Wesley (ISBN 978-0-321-48681-3; 978-0-321-49169-5). xxiv, 1009 p. (2007). 
+Aho, Alfred V.; Lam, Monica S.; Sethi, Ravi; Ullman, Jeffrey D., Edition 2, Boston, MA: Pearson/Addison Wesley (ISBN 9780321486813; 9780321491695). xxiv, 1009 p. (2007). 
 Because of its cover commonly known as ‘the dragon book.’ 
 <li><i>Komplexitaetstheorie.</i> Paul W., Teubner 
 (1978). It is in German and out of print, but I am 
