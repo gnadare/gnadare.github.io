@@ -15,8 +15,8 @@ ka:
   title: გ. ნადარეიშვილი
   params:
     description: მკვლევარი მათემატიკოსი და მათემატიკის ექსპერტი
-  menu:
-    main:
-      - name: ჩემს შესახებ
-        url: '#about'
-       weight: 1
+ # menu:
+   # main:
+   #   - name: ჩემს შესახებ
+   #     url: '#about'
+   #    weight: 1
