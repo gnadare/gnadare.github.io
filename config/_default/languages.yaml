@@ -12,9 +12,9 @@ en:
 ka:
   languageCode: ka
   contentDir: content/ka
-  title: გ. ნადარეიშვილი
-  params:
-    description: მკვლევარი მათემატიკოსი და მათემატიკის ექსპერტი
+ # title: გ. ნადარეიშვილი
+ # params:
+ #   description: მკვლევარი მათემატიკოსი და მათემატიკის ექსპერტი
  # menu:
    # main:
    #   - name: ჩემს შესახებ
