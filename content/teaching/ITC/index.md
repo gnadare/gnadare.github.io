@@ -74,3 +74,21 @@ and Allan Borodin.</li>
 complexity classes of complexity theory.</li>
 <li> Applications of Kolmogorov complexity.</li>
 </ul>
+
+Literature used:
+
+<ul style="list-style-type:circle;">
+<li> <i>Introduction to the Theory of Computation.</i> Michael Sipser,
+Edition	3, engage Learning, 2012, ISBN: 1133187811, 9781133187813.</li>
+<li> <i>Formal Languages and Their Relation to Automata.</i> Hopcroft 
+and Ullman, Addison Wesley 1969.</li>
+<li> <i>Compilers - Principles, Techniques and Tools.</i> 
+Aho, Lam, Sethi and Ullman. 
+Because of its cover commonly known as ‘the 
+dragon book’ 
+<li>Wolfgang Paul: Komplexitaetstheorie. Teubner 
+1978. It is in German and out of print, but I am 
+optimistic that the slides will reflect the author’s 
+intentions fairly well.</li>
+<li> Various original articles.</li>
+</ul>
