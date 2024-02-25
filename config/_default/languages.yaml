@@ -9,12 +9,12 @@ en:
   contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-#ka:
-#  languageCode: ka
-#  contentDir: content/ka
- # title: გ. ნადარეიშვილი
- # params:
- #   description: მკვლევარი მათემატიკოსი და მათემატიკის ექსპერტი
+ka:
+  languageCode: ka
+  contentDir: content/ka
+  title: გ. ნადარეიშვილი
+  params:
+    description: 'მკვლევარი მათემატიკოსი და მათემატიკის ექსპერტი'
  # menu:
    # main:
    #   - name: ჩემს შესახებ
