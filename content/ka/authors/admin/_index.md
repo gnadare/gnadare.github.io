@@ -1,0 +1,127 @@
+---
+# Display name
+title: გიორგი ნადარეიშვილი
+
+# Name pronunciation (optional)
+# name_pronunciation: Chien Shiung Wu
+
+# Full name (for SEO)
+first_name: გიორგი
+last_name: ნადარეიშვილი
+
+# Status emoji
+#status:
+#  icon: ☕️
+
+# Is this the primary user of the site?
+superuser: true
+
+# Role/position/tagline
+role: მათემატიკის პროფესორი
+
+# Organizations/Affiliations to show in About widget
+organizations:
+  - name: ქუთაისის საერთაშორისო უნივერსიტეტი
+    url: https://www.kiu.edu.ge/
+
+# Short bio (displayed in user profile at end of posts)
+bio: I am a research mathematician interested in Noncommutative Topology, Operator Algebras, Category Theory and some Theoretical Computer Science.
+
+# Interests to show in About widget
+interests:
+  - Noncommutative Topology
+  - Operator Algebras
+  - KK-theory
+  - Triangulated Categories
+
+# Education to show in About widget
+education:
+  courses:
+    - course: PhD in Mathematics
+      institution: University of Göttingen
+      year: 2015
+    - course: MSc in Mathematics
+      institution: Tbilisi State University
+      year: 2011
+    - course: BSc in Mathematics
+      institution: Tbilisi State University
+      year: 2009
+
+# Skills
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+
+#skills:
+#  - name: Technical
+#    items:
+#      - name: Python
+#        description: ''
+#        percent: 80
+#        icon: python
+#        icon_pack: fab
+#      - name: Data Science
+#        description: ''
+#        percent: 100
+#        icon: chart-line
+#        icon_pack: fas
+#      - name: SQL
+#        description: ''
+#        percent: 40
+#        icon: database
+#        icon_pack: fas
+#  - name: Hobbies
+#    color: '#eeac02'
+#    color_border: '#f0bf23'
+#    items:
+#      - name: Hiking
+#        description: ''
+#        percent: 60
+#        icon: person-hiking
+#        icon_pack: fas
+#      - name: Cats
+#        description: ''
+#        percent: 100
+#        icon: cat
+#        icon_pack: fas
+#      - name: Photography
+#        description: ''
+#        percent: 80
+#        icon: camera-retro
+#        icon_pack: fas
+
+# Social/Academic Networking
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:giorgi.nadareishvili@kiu.edu.ge' 
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf 
+  - icon: arxiv
+    icon_pack: ai
+    link: https://arxiv.org/search/?searchtype=author&query=Nadareishvili%2C+G
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=en&user=tmFe0PoAAAAJ
+  # Link to a PDF of your resume/CV.
+  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
+  # and uncomment the lines below.
+  
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+---
+
+I am a research mathematician mainly interested in Noncommutative Topology, specifically applying category-theoretic techniques to operator algebras and their K-theory.
+{style="text-align: justify;"}
+
+I currently hold an associate professor position at the School of Mathematics and Computer Science at <a href='https://www.kiu.edu.ge/'>Kutaisi International University</a>. I also work as a researcher at <a href='https://rmi.tsu.ge/'>A. Razmadze Mathematical Institute</a> and as an expert at the <a href='https://mes.gov.ge/'>Ministry of Education, Science and Youth of Georgia</a>.
+{style="text-align: justify;"}
+
+Alongside mathematics, I also teach theoretical computer science courses.
+{style="text-align: justify;"}
+
+I obtained my PhD in 2015 from the Mathematics Institute of the <a href='https://www.uni-goettingen.de/'> University of Göttingen</a>, under the supervision of <a href="https://scholar.google.com/citations?user=WKLNbvUAAAAJ">Ralf Meyer</a>. Before that, I studied at <a href="https://www.tsu.ge/en">Tbilisi State University</a> and wrote my Master's thesis under Alex Patchkoria.
+{style="text-align: justify;"}
