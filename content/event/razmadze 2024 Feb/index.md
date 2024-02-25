@@ -12,8 +12,8 @@ address:
   postcode: '0193'
   country: Georgia
 
-summary: We discussed a universal homological invariant for the KK-category of equivariant C*-algebras with the action of a finite group. Talk was held in Georgian.
-abstract: 'In thit talk, we discussed a universal homological invariant for equivariant KK-category of equivariant C*-algebras with the action of a finite group.'
+summary: We discussed a universal homological invariant for the KK-category of equivariant C*-algebras with the action of a finite group. This is joint work with Ralf Meyer. Talk was held in Georgian. 
+abstract: 'In thit talk, we discussed a universal homological invariant for equivariant KK-category of equivariant C*-algebras with the action of a finite group. This is joint work with Ralf Meyer.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
