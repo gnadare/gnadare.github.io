@@ -1,285 +1,287 @@
 # Navigation
 
 - id: toggle_navigation
-  translation: Toggle navigation
+  translation: ნავიგაციის გადართვა
 
 - id: table_of_contents
-  translation: Table of Contents
+  translation: შინაარსი
 
 - id: on_this_page
-  translation: On this page
+  translation: ამ გვერდზე
 
 - id: back_to_top
-  translation: Back to top
+  translation: ზემოთ დაბრუნება
 
 - id: home
-  translation: Home
+  translation: მთავარი
 
 - id: close
-  translation: Close
+  translation: დახურვა
 
 - id: languages
-  translation: Languages
+  translation: ენები
 
 # General
 
 - id: related
-  translation: Related
+  translation: დაკავშირებული
 
 - id: minute_read
-  translation: min read
+  translation: ერთი წუთის წასაკითხი
 
 - id: previous
-  translation: Previous
+  translation: წინა
 
 - id: next
-  translation: Next
+  translation: შემდეგი
 
 - id: figure
-  translation: 'Figure %d:'
+  translation: 'სურათი %d:'
 
 - id: edit_page
-  translation: Edit this page
+  translation: გვერდის რედაქტირება
 
 # Themes
 
 - id: theme_selector
-  translation: Display preferences
+  translation: ეკრანის პრეფერენციები
 
 - id: theme_light
-  translation: Light
+  translation: ღია
 
 - id: theme_dark
-  translation: Dark
+  translation: მუქი
 
 - id: theme_auto
-  translation: Automatic
+  translation: ავტომატური
 
 # Buttons
 
 - id: btn_preprint
-  translation: Preprint
+  translation: პრეპრინტი
 
 - id: btn_pdf
   translation: PDF
 
 - id: btn_cite
-  translation: Cite
+  translation: ციტირება
 
 - id: btn_slides
-  translation: Slides
+  translation: სლაიდები
 
 - id: btn_video
-  translation: Video
+  translation: ვიდეო
 
 - id: btn_code
-  translation: Code
+  translation: კოდი
 
 - id: btn_dataset
-  translation: Dataset
+  translation: მონაცემები
 
 - id: btn_project
-  translation: Project
+  translation: პროექტი
 
 - id: btn_poster
-  translation: Poster
+  translation: პოსტერი
 
 - id: btn_source
-  translation: Source Document
+  translation: წყარო დოკუმენტი
 
 - id: btn_copy
-  translation: Copy
+  translation: დაკოპირება
 
 - id: btn_copied
-  translation: Copied
+  translation: დაკოპირებულია
 
 - id: btn_download
-  translation: Download
+  translation: გადმოწერა
 
 # About widget
 
 - id: interests
-  translation: Interests
+  translation: ინტერესები
 
 - id: education
-  translation: Education
+  translation: განათლება
 
 - id: user_profile_latest
-  translation: Latest
+  translation: ბოლო
 
 # Accomplishments widget
 
 - id: see_certificate
-  translation: See certificate
+  translation: ნახეთ სერთიფიკატი
 
 # Experience widget
 
 - id: experience
-  translation: Experience
+  translation: გამოცდილება
 
 - id: present
-  translation: Present
+  translation: დღემდე
 
 # Pages widget
 
 - id: read_more
-  translation: Read more
+  translation: წაიკითხე მეტი
 
 - id: more_pages
-  translation: See all
+  translation: ნახეთ ყველა
 
 - id: more_posts
-  translation: See all posts
+  translation: ნახეთ ყველა პოსტი
 
 - id: more_talks
-  translation: See all events
+  translation: ნახეთ ყველა აქტივობა
 
 - id: more_publications
-  translation: See all publications
+  translation: ნახეთ ყველა პუბლიკაცია
 
 # Contact widget
 
 - id: contact_name
-  translation: Name
+  translation: სახელი
 
 - id: contact_email
-  translation: Email
+  translation: ელ-ფოსტა
 
 - id: contact_message
-  translation: Message
+  translation: წერილი
 
 - id: contact_attachment
-  translation: Attach file
+  translation: ფაილის მიბმა
 
 - id: contact_send
-  translation: Send
+  translation: გაგზავნა
 
 - id: book_appointment
-  translation: Book an appointment
+  translation: შეხვედრის ჩანიშვნა
 
 # Publication/Event details
 
 - id: abstract
-  translation: Abstract
+  translation: ანოტაცია
 
 - id: publication
-  translation: Publication
+  translation: პუბლიკაცია
 
 - id: publication_type
-  translation: Type
+  translation: პუბლიკაციის ტიპი
 
 - id: date
-  translation: Date
+  translation: თარიღი
 
 - id: last_updated
-  translation: Last updated on
+  translation: ბოლოს განახლდა
 
 - id: event
-  translation: Event
+  translation: აქტივობა
 
 - id: location
-  translation: Location
+  translation: ლოკაცია
 
 - id: pub_paper_conference
-  translation: Conference paper
+  translation: საკონფერენციო სტატია
 
 - id: pub_article_journal
-  translation: Journal article
+  translation: სტატია ჟურნალში
 
 - id: pub_article
-  translation: Preprint
+  translation: პრეპრინტი
 
 - id: pub_report
-  translation: Report
+  translation: რეპორტი
 
 - id: pub_book
-  translation: Book
+  translation: წიგნი
 
 - id: pub_chapter
-  translation: Book section
+  translation: წიგნის სექცია
 
 - id: pub_thesis
-  translation: Thesis
+  translation: თეზისი
 
 - id: pub_patent
-  translation: Patent
+  translation: პატენტი
 
 # Project details
 
 - id: open_project_site
-  translation: Go to Project Site
+  translation: პროექტის საიტი
 
 # Content types for default archive page titles and search results
 
 - id: posts
-  translation: Posts
+  translation: პოსტები
 
 - id: publications
-  translation: Publications
+  translation: პუბლიკაციები
 
 - id: talks
-  translation: Events
+  translation: აქტივობები
 
 - id: projects
-  translation: Projects
+  translation: პროექტები
 
 - id: slides
-  translation: Slides
+  translation: სლაიდები
 
 - id: authors
-  translation: Authors
+  translation: ავტორები
 
 # Search
 
 - id: search
-  translation: Search
+  translation: ძიება
 
 - id: search_placeholder
-  translation: Search...
+  translation: ძიება...
 
 - id: search_results
-  translation: results found
+  translation: ძიების შედეგი
 
 - id: search_no_results
-  translation: No results found
+  translation: შედეგი ვერ მოიძებნა
 
 - id: search_common_queries
-  translation: Common searches
+  translation: საერთო საძიებელი
 
 # Error 404
 
 - id: page_not_found
-  translation: Page not found
+  translation: გვერდი ვერ მოიძებნა
 
 - id: 404_recommendations
-  translation: Perhaps you were looking for one of these?
+  translation: ჩამოთვლილთაგან რომელიმეს ხომ არ ეძებდით?
 
 # Cookie consent
 
 - id: cookie_message
-  translation: This website uses cookies to ensure you get the best experience on our website.
+  translation: თვენი საუკეთესო გამოცდილების უზრუნველსაყოფად ეს საიტი ქუქი-ფაილებს იყენებს.
+  This website uses cookies to ensure you get the best experience on our website.
 
 - id: cookie_dismiss
-  translation: Got it!
+  translation: კარგი!
 
 - id: cookie_learn
-  translation: Learn more
+  translation: გაიგეთ მეტი
 
 # Published with
 
 - id: published_with
   translation: Published with {hugoblox} — the free, {repo_link}open source{/repo_link} website builder that empowers creators.
+  გამოქვეყნებულია {hugoblox}-ით, უფასო, {repo_link}ღია წყაროს{/repo_link} მქონე ვებ-საიტების შემქმნელით.
 
 # Feedback widget
 
 - id: feedback_widget_title
-  translation: Feedback
+  translation: უკუკავშირი
 
 - id: feedback_widget_question
-  translation: Was this page helpful?
+  translation: დაგეხმარათ ეს ვებ-საიტი?
 
 - id: feedback_widget_answer_positive
-  translation: 😍 Yes
+  translation: 😍 კი
 
 - id: feedback_widget_answer_negative
-  translation: 😡 No
+  translation: 😡 არა
