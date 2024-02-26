@@ -27,7 +27,7 @@
   translation: დაკავშირებული
 
 - id: minute_read
-  translation: ერთი წუთის წასაკითხი
+  translation: წუთის წასაკითხი
 
 - id: previous
   translation: წინა
@@ -110,7 +110,7 @@
 # Accomplishments widget
 
 - id: see_certificate
-  translation: ნახეთ სერთიფიკატი
+  translation: ნახეთ სერტიფიკატი
 
 # Experience widget
 
@@ -190,7 +190,7 @@
   translation: პრეპრინტი
 
 - id: pub_report
-  translation: რეპორტი
+  translation: ანგარიში
 
 - id: pub_book
   translation: წიგნი
@@ -207,7 +207,7 @@
 # Project details
 
 - id: open_project_site
-  translation: პროექტის საიტი
+  translation: პროექტის ვებ-საიტი
 
 # Content types for default archive page titles and search results
 
@@ -257,7 +257,7 @@
 # Cookie consent
 
 - id: cookie_message
-  translation: თვენი საუკეთესო გამოცდილების უზრუნველსაყოფად ეს საიტი ქუქი-ფაილებს იყენებს.
+  translation: თვენი საუკეთესო გამოცდილების უზრუნველსაყოფად, ეს საიტი ქუქი-ფაილებს იყენებს.
   This website uses cookies to ensure you get the best experience on our website.
 
 - id: cookie_dismiss
