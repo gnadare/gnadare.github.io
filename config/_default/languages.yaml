@@ -38,6 +38,6 @@ de:
 #  - name: კონტაქტი
 #    url: '#contact'
 #    weight: 70
-ka:
- languageCode: ka
- contentDir: content/ka
+#ka:
+# languageCode: ka
+# contentDir: content/ka
