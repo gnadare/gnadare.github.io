@@ -6,12 +6,12 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  # contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-#de:
-# languageCode: de
-# contentDir: content/de
+de:
+ languageCode: de
+ contentDir: content/de
 #  title: გ. ნადარეიშვილი
 #  params:
 #    description: 'მკვლევარი მათემატიკოსი და მათემატიკის ექსპერტი'
