@@ -61,7 +61,7 @@ theorem.
 14) Determinism versus nondeterminism.
 15) Applications of Kolmogorov complexit.
 
-During these lectires, we will cover fundamental results present in a more conventional 
+During these lectures, we will cover fundamental results present in a more conventional 
 treatment of the subject as well. In particular we will treat: The Recursion Theorem,
 the two fundamental incompleteness theorems of Gödel, the speed up and gap theorems of Manuel Blum
 and Allan Borodin, two fundamental separation theorems between the classic 
