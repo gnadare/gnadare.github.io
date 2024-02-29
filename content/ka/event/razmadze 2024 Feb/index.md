@@ -1,19 +1,19 @@
 ---
 
-title: Universal Homological Invariant for Equivariant Noncommutative Spaces
+title: ეკვივარიანტული არაკომუტაციური სივრცეების უნივერსალური ჰომოლოგიური ინვარიანტი
 
-event: A. Razmadze Mathematical Institute Conference
+event: ანდრია რაზმაძის სახელობის მათემატიკის ინსტიტუტის კონფერენცია, მიძღვნილი გიორგი მანჯავიძის 100 და ნოდარ ბერიკაშვილის 95 წლისთავისადმი
 event_url: https://rmi.tsu.ge/eng/
 
-location: A. Razmadze Mathematical Institute
+location: ა. რაზმაძის სახელობის მათემატიკის ინსტიტუტი
 address:
-  street: 2, Merab Aleksidze II Lane
-  city: Tbilisi
+  street: 2, მერაბ ალექსიძის II შესახვევი
+  city: თბილისი
   postcode: '0193'
-  country: Georgia
+  country: საქართველო
 
-summary: We discussed a universal homological invariant for the KK-category of equivariant C*-algebras with the action of a finite group. This is joint work with Ralf Meyer. Talk was held in Georgian. 
-abstract: 'In thit talk, we discussed a universal homological invariant for equivariant KK-category of equivariant C*-algebras with the action of a finite group. This is joint work with Ralf Meyer.'
+summary: განვიხილეთ ეკვივარიანტული C*-ალგებრების KK-კატეგორიის უნივერსალური ჰომოლოგიური ინვარიანტი, იმ შემთხვევაში, როდესაც მოქმედი ჯგუფი სასრულია. მოხსენებისას გასაჯაროებული შედეგები რალფ მეიერთან ერთად მიმდინარე საერთო კვლევის ნაწილია.
+abstract: მოხსენების განმავლობაში, განვიხილეთ ეკვივარიანტული C*-ალგებრების KK-კატეგორიის უნივერსალური ჰომოლოგიური ინვარიანტი, იმ შემთხვევაში, როდესაც მოქმედი ჯგუფი სასრულია. გასაჯაროებული შედეგები რალფ მეიერთან ერთად მიმდინარე საერთო კვლევის ნაწილია.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -37,7 +37,7 @@ featured: false
 links:
   #- icon: twitter
   #  icon_pack: fab
-  - name: Slides in Georgian
+  - name: სლაიდები
     url: uploads/Razmadze_2024.pdf
 url_code: ''
 url_pdf: ''

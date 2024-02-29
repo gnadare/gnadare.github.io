@@ -1,23 +1,22 @@
 ---
 
-title: Affects of Government Interventions on the Spread of Novel Coronavirus
+title: რამდენად იმოქმედა სახელმწიფო რეგულაციებმა ახალი კორონავირუსის გავრცელებზე
 
-event: Seminar Mathematical Modelling of Epidemics.
+event: ეპიდემიის მათემატიკური მოდელირების სემინარი
 # event_url: 
 
-location: University of Göttingen (online)
+location: გიოტინგენის უნივერსიტეტი (online)
 #address:
 #  street: 
 #  city: 
 #  postcode: 
 #  country: 
 
-summary: This was a talk given at the online seminar on Mathematical Modelling of Epidemics organized by Prof. Ralf Meyer at the University of Göttingen. We discussed how to apply Bayesian inference to evaluate the effectiveness of government interventions on the spread of COVID-19.
-abstract: 'This talk was presented at the online seminar on Mathematical Modelling of Epidemics organized by Prof. Ralf Meyer at the University of Göttingen. We first discussed Bayesian inference and then closely followed the article on <i>Inferring change points in the spread of COVID-19 reveals the
-effectiveness of interventions</i> by Jonas Dehning, Johannes Zierenberg, F. Paul Spitzner, Michael
-Wibral, Joao Pinheiro Neto, Michael Wilczek, and Viola Priesemann (Science 369 (2020), no. 6500).
-
-This talk was not directly related to my research area; however, I found the topic interesting and decided to feature it. The material should be accessible for bachelor students.'
+summary: ეს მოხსენება გიოტინგენის უნივერსიტეტში, ეპიდემიის მათემატიკური მოდელირების სემინარზე წავიკითხე. განვიხილეთ თუ როგორ შეიძლება გამოვიყენოთ ბეისური დასკვნების მეთოდი სახელმწიფო რეგულაციების COVID-19-ის გავრცელებაზე მოქმედების შესაფასებლად.
+abstract: 'ეს მოხსენება გიოტინგენის უნივერსიტეტში 2021 წელს, პანდემიის მიმდინარეობისას, ეპიდემიის მათემატიკური მოდელირების ონლაინ სემინარზე წავიკითხე. ჯერ განვიხილეთ ბეისური სტატისტიკისა და ბეისური დასკვნების მეთოდი, შემდეგ კი სტატიას <i>Inferring change points in the spread of COVID-19 reveals the
+effectiveness of interventions</i> ავტორებით Jonas Dehning, Johannes Zierenberg, F. Paul Spitzner, Michael
+Wibral, Joao Pinheiro Neto, Michael Wilczek, and Viola Priesemann (Science 369 (2020), no. 6500) მივყევით.
+<p> ეს მოხსენება ჩემს მათემატიკურ საკვლევ სფეროებს პირდაპირ არ ეხებოდა; თუმცა საგანი რელევანტურად და საინტერესოდ მიმაჩნია, ამიტომ გადავწყვიტე აქ გამოვარჩიო. ჩემი აზით, მოხსენებაში განხილული მასალა, ტექნიკური საგნების ბაკალავრებისთვის იოლად უნდა იყოს ხელმისაწვდომი.</p>'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -41,7 +40,7 @@ featured: false
 links:
   #- icon: twitter
   #  icon_pack: fab
-  - name: Slides
+  - name: სლაიდები (ინგლისურად)
     url: uploads/Presentation_Epidemics_09_04_21.pdf
 url_code: ''
 url_pdf: ''
