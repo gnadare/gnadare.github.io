@@ -1,7 +1,7 @@
 ---
 title: Localizing subcategories in the bootstrap category of filtered $C^*$-algebras
 authors:
-- George Nadareishvili
+- გიორგი ნადარეშვილი
 date: '2019-01-01'
 publishDate: '2024-02-12T10:20:26.619965Z'
 publication_types:
