@@ -1,6 +1,6 @@
 ---
 title: Introduction to Theory of Computation, Summer 2024
-summary: 'შესავალი გამოთვალდობის თეორიაში - კურსი ქუთაისის საერთაშორისო უნივერსიტეტში.'
+summary: '<i>შესავალი გამოთვალდობის თეორიაში</i> - კურსი ქუთაისის საერთაშორისო უნივერსიტეტში.'
 tags:
   - Introduction to Theory of Computation 2024
 date: '2024-02-18T00:00:00Z'
