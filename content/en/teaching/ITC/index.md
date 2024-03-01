@@ -82,3 +82,13 @@ optimistic that the slides will reflect the author’s
 intentions fairly well.</li>
 <li><i>Various original articles.</i></li>
 </ul>
+
+## Administration
+
+The course is held on Tuesdays in two streams: 14:00-16:50 and 17:00-19:50. Please check your calendar for your specific slot. The location is always Room G5 at KIU Campus. Slides and weekly exercises are available in the "Class Material" folder on the course channel in MS Teams.
+
+What actually happens in class is usually different from what was intended. Here, I will outline for students what was actually covered and where to find the material.
+
+Week 1 - Regular expressions, Finite Automata. Slides: TCS-1.
+
+Week 2 - Nondeterministic Finite Automata, Pumping Lemma. Slides: TCS-2.

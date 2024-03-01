@@ -175,7 +175,7 @@ sections:
   - block: portfolio
     id: teaching
     content:
-      title: Teaching Courses
+      title: Courses
       filters:
         folders:
           - teaching
