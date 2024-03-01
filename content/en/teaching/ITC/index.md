@@ -33,8 +33,14 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-Although we are dealing with a very wide range of questions for the 
-better half of the lecture we are forced to rely on only two proof 
+This class deals with fundamental questions: what is computable, 
+what is not? What is provable and what not? What is computable 
+with feasible effort. The concrete example ‘can RSA be broken with 
+reasonable computation time?’ shows, that such fundamental 
+questions have enormous practical importance.
+
+Although we will be dealing with a very wide range of questions for the 
+better half of the lectures, we are forced to rely on only two proof 
 techniques: diagonalization and simulation theorems between 
 computational models. We simply do not have other techniques 
 which work (for now, but that is the case since many decades).
