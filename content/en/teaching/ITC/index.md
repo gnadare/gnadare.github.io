@@ -98,3 +98,8 @@ What actually happens in class is usually different from what was intended. Here
 Week 1 - Regular expressions, Finite Automata. Slides: TCS-1.
 
 Week 2 - Nondeterministic Finite Automata, Pumping Lemma. Slides: TCS-2.
+
+Week 3 - Minimal DFA, Chomsky hierarchyof grammars. Slides: TCS-3, first part of TCS-4.
+<ul style="list-style-type:disc;">
+<li> For minimal DFA, you can also check out this very nice <a href='https://www.informatik.uni-bremen.de/agbs/lehre/ss05/pi2/hintergrund/minimize_dfa.pdf'>notes</a> by Jan Peleska.</li>
+</ul>
