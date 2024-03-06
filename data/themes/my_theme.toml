@@ -5,7 +5,10 @@ name = "my_theme"
   primary = "#1565c0"
 
   # Menu
-  menu_primary = "#cde3f7" #"#fff"
+  #a3ccf0 ცისფერი მუქი
+  #cde3f7 ცისფერი ღია
+  #fff თეთრი
+  menu_primary = "#a3ccf0" 
   menu_text = "#34495e"
   menu_text_active = "#2962ff"
   menu_title = "#2b2b2b"
