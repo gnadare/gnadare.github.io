@@ -7,8 +7,9 @@ name = "my_theme"
   # Menu
   #a3ccf0 ცისფერი მუქი
   #cde3f7 ცისფერი ღია
+  #e4f0fb უფრო ღია ცისფერი
   #fff თეთრი
-  menu_primary = "#cde3f7" 
+  menu_primary = "#e4f0fb" 
   menu_text = "#34495e"
   menu_text_active = "#2962ff"
   menu_title = "#2b2b2b"
