@@ -106,5 +106,7 @@ What actually happens in class is usually different from what was intended. Here
 
 **Week 4** - Pumping Lemma for context free grammars, Chomsky normal form, nondeterministic pushdown automata. Slides: second part of TCS-4, first part of TCS-5. 
 <ul style="list-style-type:disc;">
-<li> Note: TCS-6 will be left out! However, you are free to review it and ask questions.</li>
+<li> Note: TCS-6 is left out! However, you are free to review it and ask questions.</li>
 </ul>
+
+**Week 5** - Finished proofs that nondeterministic pushdown automata recognize context free languages; countable sets, primitive recursive functions, diagonal arguments. Slides: second part of TCS-5, first part of TCS-7. 
