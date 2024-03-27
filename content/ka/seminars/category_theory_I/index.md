@@ -1,8 +1,8 @@
 ---
-title: Category Theory in Computer Scinece, Summer 2024
+title: Category Theory in Computer Science, Summer 2024
 summary: <i>კატეგორიათა თეორია კომპიუტერულ მეცნიერებებში</i> - სემინარი ქუთაისის საერთაშორისო უნივერსიტეტში.
 tags:
-  - Category Theory I
+  - Category Theory in Computer Science
 date: '2024-02-21T11:00:00Z'
 #date_end: '2024-06-5T13:00:00Z'
 publishDate: '2017-01-01T00:00:00Z'
@@ -33,4 +33,4 @@ url_video: ''
 slides: ''
 ---
 
-სემინართან დაკავშირებული ინფორმაციის სანახავად იხილეთ საიტის ინგლისურენოვანი ვერსია.
+სემინართან დაკავშირებული ინფორმაციის სანახავად იხილეთ გვერდის ინგლისურენოვანი ვერსია.
