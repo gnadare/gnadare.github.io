@@ -33,3 +33,12 @@ url_video: ''
 slides: ''
 ---
 <i>Category Theory in Computer Science</i> will commence at Kutaisi International University on February 21, 2024. The sessions will be held on Tuesdays 20:00-21:30, in auditorium G7. The seminar is designed for mathematics and computer science bachelor students, with the goal of identifying common ground between the two fields.
+
+Some literature:
+
+<ul style="list-style-type:disc;">
+<li> For classical mathematical source, find <i>Categories for the working mathematician</i> by Saunders Mac Lane. Graduate Texts in Mathematics, 5. Springer-Verlag, New York, 1998. xii+314 pp. ISBN: 0-387-98403-8</li>
+<li> For a nice mathematical approach rich with examples, see <a href='https://emilyriehl.github.io/files/context.pdf'><i>Category Theory in Context</i></a> by Emily Riehl.</li>
+<li> For the very brief introduction (also rich with relevant examples and exercises) for Computer science students, see <a href='https://arxiv.org/pdf/2209.01259.pdf'><i>Category Theory for Programming
+</i></a> by Benedikt Ahrens and Kobe Wullaert.</li>
+</ul>

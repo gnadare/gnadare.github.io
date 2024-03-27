@@ -57,7 +57,7 @@ decidability.
 5) Undecidable problems and the recursion 
 theorem.
 6) Proof Systems.
-7) Goedel’s incompleteness theorems.
+7) Gödel’s incompleteness theorems.
 8) Turing machine complexity classes.
 9) Complexity hierarchies.
 10) Speed up and Gap theorem.
