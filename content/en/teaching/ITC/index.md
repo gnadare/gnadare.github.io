@@ -65,7 +65,7 @@ theorem.
 12) More about complete problems.
 13) Time versus space.
 14) Determinism versus nondeterminism.
-15) Applications of Kolmogorov complexit.
+15) Applications of Kolmogorov complexity.
 
 During these lectures, we will cover fundamental results present in a more conventional 
 treatment of the subject as well. In particular we will treat: The Recursion Theorem,
