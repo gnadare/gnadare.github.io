@@ -91,7 +91,7 @@ intentions fairly well.</li>
 
 ## Administration for 2024 class
 
-The course is held on Tuesdays in two streams: 14:00-16:50 and 17:00-19:50. Please check your calendar for your specific slot. The location is always Room G5 at KIU Campus. Slides and weekly exercises are available in the "Class Material" folder on the course channel in MS Teams.
+The course is held on Tuesdays at 17:00-19:50. Please check your calendar for weekly updates. The location is Room G7 at KIU Campus. Slides and weekly exercises are available in the "Class Material" folder on the course channel in MS Teams.
 
 What actually happens in class is usually different from what was intended. Here, I will outline for students what was actually covered and where to find the material.
 
