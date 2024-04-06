@@ -8,6 +8,6 @@ publication_types:
 - thesis
 publication: 'სადოქტორო დისერტაცია, *გიოტინგენის უნივერსიტეტი*'
 links:
-- name: გიოტ. გამომც.
+- name: PDF გიოტ. გამომც.
   url: http://hdl.handle.net/11858/00-1735-0000-0028-867A-A
 ---

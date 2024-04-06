@@ -8,6 +8,6 @@ publication_types:
 - book
 publication: '*Proceedings of Algebra, Topology and Analysis: C\* and A infinity Algebras 2021*'
 links:
-- name: TSU Publ.
+- name: PDF at TSU Publ.
   url: https://www.tsu.ge/ka/publishing-house/single/1484
 ---

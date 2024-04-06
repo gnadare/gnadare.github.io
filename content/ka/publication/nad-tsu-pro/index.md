@@ -8,6 +8,6 @@ publication_types:
 - book
 publication: '*Proceedings of Algebra, Topology and Analysis: C\* and A infinity Algebras 2021*'
 links:
-- name: თსუ გამომც.
+- name: PDF თსუ გამომც.
   url: https://www.tsu.ge/ka/publishing-house/single/1484
 ---
