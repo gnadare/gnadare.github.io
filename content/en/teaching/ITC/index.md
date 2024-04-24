@@ -117,3 +117,9 @@ What actually happens in class is usually different from what was intended. Here
 <ul style="list-style-type:disc;">
 <li> Note: next week is the midterm week.</li>
 </ul>
+
+**Week 8** - Midterm.
+
+**Week 9** - Simulation of Turing Machines by recursive functions. Slides: TCS-10. 
+
+**Week 10** - Non-computable functions. Goedelisation. Halting Problem. Rice's Theorem. Recursively enumerable languages. Slides: second part of TCS-11. 
