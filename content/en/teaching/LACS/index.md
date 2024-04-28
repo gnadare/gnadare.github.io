@@ -66,6 +66,6 @@ Literature used:
  13) <a href="/uploads/LACS/Lecture_13.pdf">Lecture notes</a> 
  14) <a href="/uploads/LACS/Lecture_14.pdf">Lecture notes</a>
 
-
+Weekly exercises are usually posted in the relevant online platform.
 
 
