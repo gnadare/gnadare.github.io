@@ -1,13 +1,15 @@
 ---
 title: Introduction to Theory of Computation
-summary: 'This class deals with fundamental questions: what is computable, 
+summary: '<p style="margin-bottom:0.5cm;">This class deals with fundamental questions: what is computable, 
 what is not? What is provable and what not? What is computable 
 with feasible effort. The concrete example ‘can RSA be broken with 
 reasonable computation time?’ shows, that such fundamental 
-questions have enormous practical importance.'
+questions have enormous practical importance.</p>'
 tags:
-  - Introduction to Theory of Computation 2024
+  - Introduction to Theory of Computation 
 date: '2024-02-18T00:00:00Z'
+publishDate: '2018-01-01T00:00:00Z'
+show_date: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -31,7 +33,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-#slides: example
+slides: ''
 ---
 This class deals with fundamental questions: what is computable, 
 what is not? What is provable and what not? What is computable 
@@ -81,7 +83,7 @@ Edition	3, engage Learning, (ISBN 1133187811; 9781133187813), (2012).</li>
 <li> <i>Formal Languages and Their Relation to Automata.</i> Hopcroft, J. E.; Ullman, J. D., Addison-Wesley Series in Computer Science and Information Processing. Reading, Mass. etc.: Addison-Wesley Publishing Company. X, 242 p. (1969). </li>
 <li> <i>Compilers. Principles, techniques, and tools.</i> 
 Aho, Alfred V.; Lam, Monica S.; Sethi, Ravi; Ullman, Jeffrey D., Edition 2, Boston, MA: Pearson/Addison Wesley (ISBN 9780321486813; 9780321491695). xxiv, 1009 p. (2007). 
-Because of its cover commonly known as ‘the dragon book.’ 
+Because of its cover commonly known as ‘the dragon book.’</li>
 <li><i>Komplexitaetstheorie.</i> Paul W., Teubner 
 (1978). It is in German and out of print, but I am 
 optimistic that the slides will reflect the author’s 
