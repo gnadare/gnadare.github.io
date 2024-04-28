@@ -1,5 +1,5 @@
 ---
-title: Category Theory in Computer Science, Summer 2024
+title: Category Theory in Computer Science
 summary: <i>Category Theory in Computer Science</i> will commence at Kutaisi International University on February 21, 2024. The sessions will be held on Tuesdays 20:00-21:30, in auditorium G7. The seminar is designed for mathematics and computer science bachelor students, with the goal of identifying common ground between the two fields.
 tags:
   - Category Theory in Computer Science
