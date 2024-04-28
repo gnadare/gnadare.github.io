@@ -120,7 +120,7 @@ What actually happens in class is usually different from what was intended. Here
 <li> Note: next week is the midterm week.</li>
 </ul>
 
-**Week 8** - Midterm.
+**Week 8** - Midterm. As seen in Figure 1, midterm was easy! {{< figure src="Midterm_ITC_2024.jpg" caption="Grade distribution for the midterm." numbered="true" >}}
 
 **Week 9** - Simulation of Turing Machines by recursive functions. Slides: TCS-10. 
 
