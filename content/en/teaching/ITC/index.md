@@ -124,6 +124,8 @@ What actually happens in class is usually different from what was intended. Here
 
 **Week 9** - Simulation of Turing Machines by recursive functions. Slides: TCS-10. 
 
-**Week 10** - Non-computable functions. Goedelisation. Halting problem. Rice's Theorem. Recursively enumerable languages. Slides: TCS-11. 
+**Week 10** - Non-computable functions. Gödelisation. Halting problem. Rice's Theorem. Recursively enumerable languages. Slides: TCS-11. 
 
 **Week 11** - Proof systems. Proof system for elementary number theory. Slides: TCS-12. 
+
+**Week 12** - The two Gödel's incompleteness theorems . Slides: TCS-13.
