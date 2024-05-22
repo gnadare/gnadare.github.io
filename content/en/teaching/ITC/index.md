@@ -128,4 +128,6 @@ What actually happens in class is usually different from what was intended. Here
 
 **Week 11** - Proof systems. Proof system for elementary number theory. Slides: TCS-12. 
 
-**Week 12** - The two Gödel's incompleteness theorems . Slides: TCS-13.
+**Week 12** - The two Gödel's incompleteness theorems. Slides: TCS-13.
+
+**Week 13** - Computational resources: time and space. Deterministic complexity classes and their equivalent definitions. Time and space bounds for the 1 and 2-tape universal Turing machine. Slides: almost finished TCS-14.
