@@ -131,3 +131,5 @@ What actually happens in class is usually different from what was intended. Here
 **Week 12** - The two Gödel's incompleteness theorems. Slides: TCS-13.
 
 **Week 13** - Computational resources: time and space. Deterministic complexity classes and their equivalent definitions. Time and space bounds for the 1 and 2-tape universal Turing machine. Slides: almost finished TCS-14.
+
+**Week 14** - Time and space hierarchy theorems. Kolmogorov complexity. Slides: finished TCS-14, first half of TCS-15.
