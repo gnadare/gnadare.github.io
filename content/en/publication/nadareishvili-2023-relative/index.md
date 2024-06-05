@@ -2,12 +2,12 @@
 title: Relative homological algebra for bivariant $K$-theory
 authors:
 - George Nadareishvili
-date: '2023-01-01'
+date: '2024-05-05'
 publishDate: '2024-02-12T10:20:26.638400Z'
 publication_types:
-- manuscript
-publication: 'Accepted in *Springer Proceedings in Mathematics & Statistics*'
+- proceedings
+publication: '*Springer Proceedings in Mathematics & Statistics, vol 450. Springer, Cham.*'
 links:
-- name: arXiv
-  url: https://arxiv.org/abs/2303.01281
+- name: DOI
+  url: https://doi.org/10.1007/978-3-031-53063-0_4
 ---
