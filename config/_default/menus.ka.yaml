@@ -10,6 +10,9 @@ main:
   - name: პუბლიკაციები
     url: '#publications'
     weight: 20
+  - name: პროექტები
+    url: '#projects'
+    weight: 25
   - name: მოხსენებები
     url: '#talks'
     weight: 30
