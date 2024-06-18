@@ -33,6 +33,7 @@ interests:
   - Operator Algebras
   - KK-theory
   - Triangulated Categories
+  - Theoretical Computer Science
 
 # Education to show in About widget
 education:
