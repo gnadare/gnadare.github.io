@@ -8,6 +8,6 @@ publication_types:
 - preprint
 publication: 'preprint on *arXiv*'
 links:
-- name: arXiv link.
+- name: arXiv link
   url: https://arxiv.org/abs/2406.11787
 ---
