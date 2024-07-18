@@ -135,3 +135,5 @@ What actually happens in class is usually different from what was intended. Here
 **Week 14** - Time and space hierarchy theorems. Kolmogorov complexity. Slides: finished TCS-14, first half of TCS-15.
 
 **Week 15** - Non time constructable functions. Language not acceptable in time less than $o(n^2)$. Non deterministic Turing machine and corresponding complexity classes. Linear Bounded Automata. Slides: finished TCS-15, some parts of TCS-16.
+
+ Figure 2 shows the final distribution of points for the course after all the exams. {{< figure src="Fin_Gr_ITC_2024.jpg" caption="Final grade distribution for the course." numbered="true" >}}
