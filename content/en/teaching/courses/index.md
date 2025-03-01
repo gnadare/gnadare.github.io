@@ -39,5 +39,7 @@ with feasible effort. The concrete example ‘can RSA be broken with
 reasonable computation time?’ shows, that such fundamental 
 questions have enormous practical importance.
 
-<a href="/teaching/courses/LACS/lacs.md">Linear Algebra for Computer Science.</a> Goals of this class are to develop mathematical understanding of basic concepts and techniques from linear algebra that will be required in later courses. These include studying linear systems of equations, understanding fundamental properties of matrices, comprehending notions of a vector, a vector space and linear transformation as well as understanding basics of complex numbers.
+<a href="/teaching/courses/lacs">Linear Algebra for Computer Science.</a> Goals of this class are to develop mathematical understanding of basic concepts and techniques from linear algebra that will be required in later courses. These include studying linear systems of equations, understanding fundamental properties of matrices, comprehending notions of a vector, a vector space and linear transformation as well as understanding basics of complex numbers.
+
+[My CV]({{< ref "itc.md" >}})
 
