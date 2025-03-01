@@ -31,6 +31,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ''
 ---
+*Click on a course to view detailed information.*
  
 [Introduction to Theory of Computation.]({{< ref "courses/itc.md" >}}) 
 This class deals with fundamental questions: what is computable, 

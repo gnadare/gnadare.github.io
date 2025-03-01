@@ -94,7 +94,7 @@ intentions fairly well.</li>
 
 ## Administration for 2025 class
 
-The course is held on Tuesdays at 17:00-18:50 and Wednesday 16:00-16:50. Please check your calendar for weekly updates. The location is Room A1 at KIU Campus. Slides and weekly exercises are available in the "Class Material" folder on the course channel in MS Teams.
+The course is held on Tuesdays at 17:00-18:50 and Wednesdays 16:00-16:50. Please check your calendar for weekly updates. The location is auditorium A1 at KIU Campus. Slides and weekly exercises are available in the "Class Material" folder on the course channel in MS Teams.
 
 What actually happens in class is usually different from what was intended. Here, I will outline for students what was actually covered and where to find the material.
 
