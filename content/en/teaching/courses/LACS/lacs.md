@@ -30,6 +30,7 @@ url_video: ''
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ''
+
 ---
 Linear Algebra is an important Mathematics course of a bachelor educational program of Computer Science. The course is to lay a foundation for future study of subjects like computer graphics, machine learning and quantum computing. This course serves as a cornerstone for applications; we will not only to evaluate students’ theoretical knowledge, but also assess their skills for modelling practical problems and finding solutions to them.
 
