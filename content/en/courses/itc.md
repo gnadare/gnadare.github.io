@@ -92,14 +92,17 @@ intentions fairly well.</li>
 <li><i>Various original articles.</i></li>
 </ul>
 
-## Administration for 2024 class
+## Administration for 2025 class
 
-The course is held on Tuesdays at 17:00-19:50. Please check your calendar for weekly updates. The location is Room G7 at KIU Campus. Slides and weekly exercises are available in the "Class Material" folder on the course channel in MS Teams.
+The course is held on Tuesdays at 17:00-18:50 and Wednesday 16:00-16:50. Please check your calendar for weekly updates. The location is Room A1 at KIU Campus. Slides and weekly exercises are available in the "Class Material" folder on the course channel in MS Teams.
 
 What actually happens in class is usually different from what was intended. Here, I will outline for students what was actually covered and where to find the material.
 
+Lectures are also recorded and uploaded to YouTube. You can find the the playlist <a href='https://www.youtube.com/playlist?list=PL1GlRliRCb0ulFfblvMFxBk8bx_ZhlLv8'>here</a>.
+
 **Week 1** - Regular expressions, Finite Automata. Slides: TCS-1.
 
+<!--
 **Week 2** - Nondeterministic finite automata, Pumping Lemma for regular languages. Slides: TCS-2.
 
 **Week 3** - Minimal DFA, Chomsky hierarchy of grammars. Slides: TCS-3, first part of TCS-4.
@@ -138,3 +141,4 @@ What actually happens in class is usually different from what was intended. Here
 **Week 15** - Non time constructable functions. Language not acceptable in time less than $o(n^2)$. Non deterministic Turing machine and corresponding complexity classes. Linear Bounded Automata. Slides: finished TCS-15, some parts of TCS-16.
 
  Figure 2 shows the final distribution of points for the course after all the exams. {{< figure src="Fin_Gr_ITC_2024.jpg" caption="Final grade distribution for the course." numbered="true" >}}
+ -->

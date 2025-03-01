@@ -1,6 +1,6 @@
 ---
 title: Seminars
-summary: 'S I teach and participate in at various places, but primarily at Kutaisi International University.'
+summary: 'Seminars I teach and participate in at various places, but primarily at Kutaisi International University.'
 tags:
   - Seminars
 date: '2022-02-18T00:00:00Z'
@@ -32,6 +32,5 @@ url_video: ''
 slides: ''
 ---
  
-<a href="/teaching/seminars/CTCS/ctcs">Category Theory in Computer Science.</a> 
-The seminar at Kutaisi International University. Designed for mathematics and computer science bachelor students, with the goal of identifying common ground between the two fields.
+ [Category Theory in Computer Science.]({{< ref "seminars/ctcs.md" >}}) The seminar at Kutaisi International University. Designed for mathematics and computer science bachelor students, with the goal of identifying common ground between the two fields.
 
