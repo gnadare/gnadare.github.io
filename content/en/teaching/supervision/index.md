@@ -1,8 +1,8 @@
 ---
-title: Supervision
+title: Advising Students
 summary: 'Here, you can find information about diploma projects supervised by me.'
 tags:
-  - Supervision
+  - Advising Students
 date: '2022-02-18T00:00:00Z'
 publishDate: '2017-01-01T00:00:00Z'
 show_date: false

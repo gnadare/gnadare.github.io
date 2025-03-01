@@ -1,6 +1,6 @@
 ---
 title: Seminars
-summary: 'Seminars I teach and participate in at various places, but primarily at Kutaisi International University.'
+summary: 'Seminars in Mathematics and Computer Science that I teach and participate in at various institutions, primarily at Kutaisi International University.'
 tags:
   - Seminars
 date: '2022-02-18T00:00:00Z'

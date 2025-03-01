@@ -1,6 +1,6 @@
 ---
 title: University Courses
-summary: 'The university-level courses I teach at various places, but primarily at Kutaisi International University.'
+summary: 'The university-level courses I teach at various places, primarily at Kutaisi International University.'
 tags:
   - University Courses
 date: '2022-02-18T00:00:00Z'

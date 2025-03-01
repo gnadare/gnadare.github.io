@@ -1,6 +1,6 @@
 ---
-title: For High School Students
-summary: 'Learning and teaching materials for high school students and teachers.'
+title: Resources for High School Students and teachers
+summary: 'A collection of learning and teaching materials for high school students and teachers, created by me.'
 tags:
   - For High School Students
 date: '2022-02-18T00:00:00Z'
@@ -32,4 +32,4 @@ url_video: ''
 slides: ''
 ---
 
-
+Currently, all these resources are available only in Georgian. Please refer to the Georgian version of the site.
