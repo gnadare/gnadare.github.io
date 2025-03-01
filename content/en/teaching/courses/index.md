@@ -32,7 +32,7 @@ url_video: ''
 slides: ''
 ---
  
-<a href="/teaching/courses/ITC/itc">Introduction to Theory of Computation.</a> 
+<a href="/teaching/courses/itc">Introduction to Theory of Computation.</a> 
 This class deals with fundamental questions: what is computable, 
 what is not? What is provable and what not? What is computable 
 with feasible effort. The concrete example ‘can RSA be broken with 
