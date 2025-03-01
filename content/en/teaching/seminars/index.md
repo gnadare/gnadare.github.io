@@ -1,5 +1,5 @@
 ---
-title: Seminars
+title: Scientific Seminars
 summary: 'Seminars in Mathematics and Computer Science that I teach and participate in at various institutions, primarily at Kutaisi International University.'
 tags:
   - Seminars
