@@ -32,4 +32,4 @@ url_video: ''
 slides: ''
 ---
 
-
+*Click on a project to view detailed information.*

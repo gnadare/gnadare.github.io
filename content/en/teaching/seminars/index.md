@@ -32,5 +32,7 @@ url_video: ''
 slides: ''
 ---
  
+ *Click on a seminar to view detailed information.*
+
  [Category Theory in Computer Science.]({{< ref "seminars/ctcs.md" >}}) The seminar at Kutaisi International University. Designed for mathematics and computer science bachelor students, with the goal of identifying common ground between the two fields.
 
