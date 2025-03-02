@@ -96,9 +96,10 @@ intentions fairly well.</li>
 
 The course is held on Tuesdays at 17:00-18:50 and Wednesdays 16:00-16:50. Please check your calendar for weekly updates. The location is auditorium A1 at KIU Campus. Slides and weekly exercises are available in the "Class Material" folder on the course channel in MS Teams.
 
-What actually happens in class is usually different from what was intended. Here, I will outline for students what was actually covered and where to find the material.
+Lectures are also recorded and uploaded to YouTube. Below is the playlist.
+{{< youtubepl id="PL1GlRliRCb0ulFfblvMFxBk8bx_ZhlLv8" >}}
 
-Lectures are also recorded and uploaded to YouTube. You can find the the playlist <a href='https://www.youtube.com/playlist?list=PL1GlRliRCb0ulFfblvMFxBk8bx_ZhlLv8'>here</a>.
+What actually happens in class is usually different from what was intended. Here, I will outline for students what was actually covered and where to find the material.
 
 **Week 1** - Regular expressions, Finite Automata. Slides: TCS-1.
 
