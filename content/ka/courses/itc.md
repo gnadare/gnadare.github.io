@@ -2,7 +2,7 @@
 title: შესავალი გამოთვლადობის თეორიაში
 summary: '<p style="margin-bottom:0.5cm;"><i>შესავალი გამოთვლადობის თეორიაში</i> - კურსი ქუთაისის საერთაშორისო უნივერსიტეტში.</p>'
 tags:
-  - Introduction to Theory of Computation 
+  - შესავალი გამოთვლადობის თეორიაში 
 date: '2024-02-18T00:00:00Z'
 publishDate: '2018-01-01T00:00:00Z'
 show_date: false
