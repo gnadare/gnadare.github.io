@@ -33,13 +33,13 @@ slides: ''
 ---
 *Click on a course to view detailed information.*
  
-[Introduction to Theory of Computation.]({{< ref "courses/itc.md" >}}) 
+- [<ins>Introduction to Theory of Computation.</ins>]({{< ref "courses/itc.md" >}}) 
 This class deals with fundamental questions: what is computable, 
 what is not? What is provable and what not? What is computable 
 with feasible effort. The concrete example ‘can RSA be broken with 
 reasonable computation time?’ shows, that such fundamental 
 questions have enormous practical importance.
 
-[Linear Algebra for Computer Science.]({{< ref "courses/lacs.md" >}}) Goals of this class are to develop mathematical understanding of basic concepts and techniques from linear algebra that will be required in later courses. These include studying linear systems of equations, understanding fundamental properties of matrices, comprehending notions of a vector, a vector space and linear transformation as well as understanding basics of complex numbers.
+- [<ins>Linear Algebra for Computer Science.</ins>]({{< ref "courses/lacs.md" >}}) Goals of this class are to develop mathematical understanding of basic concepts and techniques from linear algebra that will be required in later courses. These include studying linear systems of equations, understanding fundamental properties of matrices, comprehending notions of a vector, a vector space and linear transformation as well as understanding basics of complex numbers.
 
 
