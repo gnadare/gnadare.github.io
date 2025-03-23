@@ -110,12 +110,12 @@ What actually happens in class is usually different from what was intended. Here
 <ul style="list-style-type:disc;">
 <li> We skipped over the minimization of the DFA. However, feel free to check out this very nice <a href='https://www.informatik.uni-bremen.de/agbs/lehre/ss05/pi2/hintergrund/minimize_dfa.pdf'><ins>notes</ins></a> by Jan Peleska on the topic.</li>
 </ul>
-<!--
+
 **Week 4** - Pumping Lemma for context free grammars, Chomsky normal form, nondeterministic pushdown automata. Slides: second part of TCS-4, first part of TCS-5. 
 <ul style="list-style-type:disc;">
 <li> Note: TCS-6 is left out! However, you are free to review it and ask questions.</li>
 </ul>
-
+<!--
 **Week 5** - Finished proofs that nondeterministic pushdown automata recognize context free languages; countable sets, primitive recursive functions, diagonal arguments. Slides: second part of TCS-5, first part of TCS-7. 
 
 **Week 6** - Bounded and unbounded minimization, $\mu$-recursive functions; $k$-tape Turing machines. Slides: second part of TCS-7, first part of TCS-8. 
