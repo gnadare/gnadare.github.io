@@ -98,7 +98,7 @@ The course is held on Tuesdays at 17:00-18:50 and Wednesdays 16:00-16:50. Please
 
 Lectures are also recorded and uploaded to YouTube. Below is the playlist.
 {{< youtubepl id="PL1GlRliRCb0ulFfblvMFxBk8bx_ZhlLv8" >}}
-
+              
 What actually happens in class is usually different from what was intended. Here, I will outline for students what was actually covered and where to find the material.
 
 **Week 1** - Regular expressions, Finite Automata. Slides: TCS-1.
@@ -115,10 +115,11 @@ What actually happens in class is usually different from what was intended. Here
 <ul style="list-style-type:disc;">
 <li> Note: TCS-6 is left out! However, you are free to review it and ask questions.</li>
 </ul>
-<!--
-**Week 5** - Finished proofs that nondeterministic pushdown automata recognize context free languages; countable sets, primitive recursive functions, diagonal arguments. Slides: second part of TCS-5, first part of TCS-7. 
 
-**Week 6** - Bounded and unbounded minimization, $\mu$-recursive functions; $k$-tape Turing machines. Slides: second part of TCS-7, first part of TCS-8. 
+**Week 5** - Finished proofs that nondeterministic pushdown automata recognize context free languages; countable sets, Cantor's diagonal argument. Slides: second part of TCS-5, first part of TCS-7. 
+
+<!--
+**Week 6** - Primitive recursive functions, bounded and unbounded minimization, $\mu$-recursive functions; $k$-tape Turing machines. Slides: second part of TCS-7, first part of TCS-8. 
 
 **Week 7** - Computing $\mu$-recursive functions by regular $k$-tape Turing machines. Simulating $k$-tape Turing machines by $1$-tape Turing Machines. Slides: second part of TCS-8, first part of TCS-9 (second part of TCS-9 will not be covered). 
 <ul style="list-style-type:disc;">
