@@ -116,13 +116,10 @@ highlight_name: true
 ---
 
 I am a research mathematician with a primary focus on noncommutative topology, particularly the application of category-theoretic methods to operator algebras and their K-theory.
-{style="text-align: justify;"}
+<!--{style="text-align: justify;"}-->
 
 Currently, I am an assistant professor at the School of Mathematics and Computer Science at <a href='https://www.kiu.edu.ge/'>Kutaisi International University</a>. In addition, I work as a researcher at <a href='https://rmi.tsu.ge/'>A. Razmadze Mathematical Institute</a> and serve as an expert at the <a href='https://mes.gov.ge/'>Ministry of Education, Science and Youth of Georgia</a>, at the <a href = 'https://www.ncer.gov.ge/en'>National Center for Educational Research</a>.
-{style="text-align: justify;"}
 
 Beyond mathematics, I also teach courses in theoretical computer science.
-{style="text-align: justify;"}
 
 I earned my PhD in 2015 from the Mathematics Institute at the <a href='https://www.uni-goettingen.de/'> University of Göttingen</a> under the supervision of <a href="https://scholar.google.com/citations?user=WKLNbvUAAAAJ">Ralf Meyer</a>. Prior to that, I studied at <a href="https://www.tsu.ge/en">Tbilisi State University</a>, where I completed my Master’s thesis under the guidance of Alex Patchkoria.
-{style="text-align: justify;"}
