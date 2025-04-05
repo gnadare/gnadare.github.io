@@ -118,10 +118,14 @@ What actually happens in class is usually different from what was intended. Here
 
 **Week 5** - Finished proofs that nondeterministic pushdown automata recognize context free languages; countable sets, Cantor's diagonal argument. Slides: second part of TCS-5, first part of TCS-7. 
 
-<!--
-**Week 6** - Primitive recursive functions, bounded and unbounded minimization, $\mu$-recursive functions; $k$-tape Turing machines. Slides: second part of TCS-7, first part of TCS-8. 
 
-**Week 7** - Computing $\mu$-recursive functions by regular $k$-tape Turing machines. Simulating $k$-tape Turing machines by $1$-tape Turing Machines. Slides: second part of TCS-8, first part of TCS-9 (second part of TCS-9 will not be covered). 
+**Week 6** - Primitive recursive functions, bounded and unbounded minimization, $\mu$-recursive functions;  Slides: second part of TCS-7. 
+<ul style="list-style-type:disc;">
+<li> Note: next week is the midterm week.</li>
+</ul>
+
+<!--
+**Week 7** - $k$-tape Turing machines, Computing $\mu$-recursive functions by regular $k$-tape Turing machines. Simulating $k$-tape Turing machines by $1$-tape Turing Machines. Slides: TCS-8, first part of TCS-9 (second part of TCS-9 will not be covered). 
 <ul style="list-style-type:disc;">
 <li> Note: next week is the midterm week.</li>
 </ul>
