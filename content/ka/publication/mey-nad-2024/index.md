@@ -8,6 +8,6 @@ publication_types:
 - preprint
 publication: 'გამოსაქვეყნებლად მიღებულია *მათემატიკური მეცნიერებების ჟურნალში, ტოკიოს უნივერსიტეტი*. პრეპრინტი იხილეთ *arXiv*-ზე'
 links:
-- name: arXiv ბმული
+- name: arXiv-ის ბმული
   url: https://arxiv.org/abs/2406.11787
 ---
