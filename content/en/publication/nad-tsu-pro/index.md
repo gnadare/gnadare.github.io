@@ -1,5 +1,5 @@
 ---
-title: 'Algebra, Topology and Analysis: $C^*$ and $A_\infty$ Algebras'
+title: 'Approximations of Kasparov Categories of $C^∗$-Algebras'
 authors:
 - George Nadareishvili
 date: '2023-01-01'
