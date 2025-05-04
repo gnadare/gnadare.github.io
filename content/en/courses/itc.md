@@ -124,12 +124,13 @@ What actually happens in class is usually different from what was intended. Here
 <li> Note: next week is the midterm week.</li>
 </ul>
 
-<!--
-**Week 7** - $k$-tape Turing machines, Computing $\mu$-recursive functions by regular $k$-tape Turing machines. Simulating $k$-tape Turing machines by $1$-tape Turing Machines. Slides: TCS-8, first part of TCS-9 (second part of TCS-9 will not be covered). 
-<ul style="list-style-type:disc;">
-<li> Note: next week is the midterm week.</li>
-</ul>
+**Week 7** - Midterm.
 
+**Week 9** - $k$-tape Turing machines, Computing $\mu$-recursive functions by regular $k$-tape Turing machines. Slides: first part of TCS-9 (second part of TCS-9 will not be covered).
+
+**Week 9** - Simulating $k$-tape Turing machines by $1$-tape Turing Machines. Slides: first part of TCS-9 (second part of TCS-9 will not be covered). 
+
+<!--
 **Week 8** - Midterm. As seen in Figure 1, midterm was easy! {{< figure src="Midterm_ITC_2024.jpg" caption="Grade distribution for the midterm." numbered="true" >}}
 
 **Week 9** - Simulation of Turing Machines by recursive functions. Slides: TCS-10. 
