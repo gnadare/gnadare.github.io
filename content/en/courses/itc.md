@@ -126,7 +126,7 @@ What actually happens in class is usually different from what was intended. Here
 
 **Week 7** - Midterm.
 
-**Week 9** - $k$-tape Turing machines, Computing $\mu$-recursive functions by regular $k$-tape Turing machines. Slides: first part of TCS-9 (second part of TCS-9 will not be covered).
+**Week 8** - $k$-tape Turing machines, Computing $\mu$-recursive functions by regular $k$-tape Turing machines. Slides: first part of TCS-9 (second part of TCS-9 will not be covered).
 
 **Week 9** - Simulating $k$-tape Turing machines by $1$-tape Turing Machines. Slides: first part of TCS-9 (second part of TCS-9 will not be covered). 
 
