@@ -130,6 +130,8 @@ What actually happens in class is usually different from what was intended. Here
 
 **Week 9** - Simulating $k$-tape Turing machines by $1$-tape Turing Machines. Slides: first part of TCS-9 (second part of TCS-9 will not be covered). 
 
+**Week 10** - Simulation of Turing Machines by recursive functions. Non-computable functions. Gödelisation. Halting problem. Slides: TCS-10, TCS-11.
+
 <!--
 **Week 8** - Midterm. As seen in Figure 1, midterm was easy! {{< figure src="Midterm_ITC_2024.jpg" caption="Grade distribution for the midterm." numbered="true" >}}
 
