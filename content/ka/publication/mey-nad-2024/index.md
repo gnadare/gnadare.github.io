@@ -2,12 +2,12 @@
 title: 'A universal coefficient theorem for actions of finite groups on $C^*$-algebras'
 authors:
 - რალფ მეიერი, გიორგი ნადარეიშვილი
-date: '2025-03-14'
-publishDate: '2024-02-12T10:20:26.650242Z'
+date: '2026-01-27'
+publishDate: '2026-01-27T10:20:26.650242Z'
 publication_types:
 - preprint
-publication: 'გამოსაქვეყნებლად მიღებულია *მათემატიკური მეცნიერებების ჟურნალში, ტოკიოს უნივერსიტეტი*. პრეპრინტი იხილეთ *arXiv*-ზე'
+publication: '*მათემატიკური მეცნიერებების ჟურნალი, ტოკიოს უნივერსიტეტი*. ტომი 33(2026), No. 1, გვერდები 21-47.
 links:
-- name: arXiv-ის ბმული
-  url: https://arxiv.org/abs/2406.11787
+- name: ჟურნალის ბმული
+  url: https://www.ms.u-tokyo.ac.jp/journal/abstract/jms330102.html
 ---

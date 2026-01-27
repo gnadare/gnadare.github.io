@@ -2,12 +2,12 @@
 title: 'A universal coefficient theorem for actions of finite groups on $C^*$-algebras'
 authors:
 - Ralf Meyer, George Nadareishvili
-date: '2025-03-14'
+date: '2026-01-27'
 publishDate: '2024-02-12T10:20:26.650242Z'
 publication_types:
 - preprint
-publication: 'Accepted for publication in *Journal of Mathematical Sciences, the University of Tokyo*. Preprint available on *arXiv*'
+publication: '*Journal of Mathematical Sciences, the University of Tokyo*. Vol. 33 (2026), No. 1, Page 21-47.
 links:
-- name: arXiv link
-  url: https://arxiv.org/abs/2406.11787
+- name: Link
+  url: https://www.ms.u-tokyo.ac.jp/journal/abstract/jms330102.html
 ---
