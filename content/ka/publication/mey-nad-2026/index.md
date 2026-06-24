@@ -6,7 +6,7 @@ date: '2026-04-14'
 publishDate: '2024-02-12T10:20:26.650242Z'
 publication_types:
 - preprint
-publication: 'პრეპრინტი იხილეთ *arXiv*-ზე'
+publication: 'მიღებულია გამოსაქვეყნებლად *Münster Journal of Mathematics-ში*'
 links:
 - name: arXiv-ის ბმული
   url: https://arxiv.org/abs/2604.12529
