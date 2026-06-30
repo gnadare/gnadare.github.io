@@ -1,8 +1,8 @@
 ---
-title: 'The Probability Spaces of QuickSort'
+title: 'Probability Spaces for Random Algorithms'
 authors:
-- გიორგი ნადარეიშვილი, იონას ობერჰაუზერი, ვოლფგანგ ჯ. პოლი
-date: '2025-04-07'
+- ლაშა ეფრემიძე, გიორგი ნადარეიშვილი, იონას ობერჰაუზერი, ვოლფგანგ ჯ. პოლი
+date: '2026-03-07'
 publishDate: '2024-02-12T10:20:26.650242Z'
 publication_types:
 - preprint
