@@ -124,42 +124,56 @@
   }
 }
 
-// Give the title and controls their own rows on phones, keeping both labels visible.
+// Keep the menu, title, tools, and languages together on a single phone row.
 @media (max-width: 767.98px) {
   #navbar-main {
-    padding-top: 6px;
-    padding-bottom: 6px;
+    padding: 6px 8px;
 
     > .container-xl {
-      display: grid;
-      grid-template-columns: auto minmax(0, 1fr);
-      row-gap: 4px;
+      flex-wrap: nowrap;
+      gap: 4px;
     }
 
     .navbar-toggler {
-      grid-column: 1;
-      grid-row: 1;
+      flex-shrink: 0;
+      padding: 4px;
+      font-size: 18px;
     }
 
     .navbar-brand-mobile-wrapper {
-      grid-column: 2;
-      grid-row: 1;
-      justify-content: flex-end;
-      margin: 0 0 0 12px;
+      margin: 0;
     }
 
     .navbar-brand {
       max-width: 100%;
-      font-size: 18px;
-      white-space: normal;
+      font-size: clamp(14px, 3.6vw, 18px);
+      white-space: nowrap;
     }
 
     .nav-icons {
-      grid-column: 1 / -1;
-      grid-row: 2;
-      justify-self: end;
       padding-top: 0;
       padding-bottom: 0;
+
+      > .nav-item {
+        padding-right: 0;
+      }
+
+      > .nav-item > .nav-link {
+        padding: 8px 6px;
+      }
+    }
+
+    .language-switch-item {
+      padding-left: 4px;
+    }
+
+    .language-switch {
+      padding: 2px;
+    }
+
+    .language-link {
+      padding-right: 3px;
+      padding-left: 3px;
     }
   }
 }
