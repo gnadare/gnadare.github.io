@@ -1,3 +1,65 @@
+// Lead publication lists with the article title, followed by quieter metadata.
+.view-publication {
+  margin-bottom: 1.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+
+  .publication-title {
+    margin: 0 0 0.45rem;
+    font-size: 1.15rem;
+    font-weight: 700;
+    line-height: 1.4;
+    overflow-wrap: break-word;
+
+    a {
+      color: #000;
+    }
+  }
+
+  .publication-authors,
+  .publication-venue {
+    color: #555;
+    font-size: 0.85rem;
+    line-height: 1.6;
+  }
+
+  .publication-authors a {
+    color: inherit;
+  }
+
+  .publication-year {
+    white-space: nowrap;
+  }
+
+  .publication-venue {
+    margin-top: 0.2rem;
+  }
+
+  .publication-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-top: 0.65rem;
+
+    .btn {
+      margin: 0;
+    }
+  }
+}
+
+.dark .view-publication {
+  border-color: rgba(255, 255, 255, 0.16);
+
+  .publication-title a {
+    color: #f8f8f2;
+  }
+
+  .publication-authors,
+  .publication-venue {
+    color: #c1c1c1;
+  }
+}
+
 // Keep the language choices distinct from the search and appearance tools.
 #navbar-main {
   .nav-icons {

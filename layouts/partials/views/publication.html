@@ -1,0 +1,22 @@
+{{ $item := .item }}
+
+<article class="view-publication">
+  <h3 class="publication-title">
+    <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>
+  </h3>
+
+  <div class="publication-authors">
+    {{ partial "page_metadata_authors" $item }}
+    <span class="publication-year">({{ $item.Date.Format "2006" }})</span>
+  </div>
+
+  {{ with $item.Params.publication_short | default $item.Params.publication }}
+    <div class="publication-venue">{{ . | markdownify }}</div>
+  {{ end }}
+
+  {{ if partial "functions/has_attachments" $item }}
+    <div class="publication-links">
+      {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+    </div>
+  {{ end }}
+</article>
