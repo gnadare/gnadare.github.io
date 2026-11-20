@@ -1,0 +1,165 @@
+// Keep the language choices distinct from the search and appearance tools.
+#navbar-main {
+  .nav-icons {
+    align-items: center;
+    flex-shrink: 0;
+  }
+
+  .language-switch-item {
+    display: flex;
+    align-items: center;
+    padding-left: 0.75rem;
+    border-left: 1px solid rgba($sta-menu-text, 0.2);
+  }
+
+  .language-switch {
+    display: inline-flex;
+    align-items: center;
+    gap: 2px;
+    padding: 3px;
+    border: 1px solid rgba($sta-menu-text, 0.18);
+    border-radius: 8px;
+    background: rgba($sta-menu-text, 0.04);
+  }
+
+  .language-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 32px;
+    padding: 4px 9px;
+    border-radius: 5px;
+    color: $sta-menu-text;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.4;
+    text-decoration: none;
+    white-space: nowrap;
+
+    &:hover {
+      color: $sta-menu-text;
+      background: rgba($sta-menu-text, 0.08);
+    }
+
+    &:focus-visible {
+      outline: 2px solid $sta-menu-text-active;
+      outline-offset: 2px;
+    }
+
+    &.is-current {
+      color: $sta-menu-text-active;
+      background: rgba(255, 255, 255, 0.85);
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+      font-weight: 700;
+    }
+  }
+}
+
+.dark #navbar-main {
+  .language-switch-item {
+    border-color: rgba($sta-dark-menu-text, 0.25);
+  }
+
+  .language-switch {
+    border-color: rgba($sta-dark-menu-text, 0.25);
+    background: rgba($sta-dark-menu-text, 0.04);
+  }
+
+  .language-link {
+    color: $sta-dark-menu-text;
+
+    &:hover {
+      color: $sta-dark-menu-text;
+      background: rgba($sta-dark-menu-text, 0.1);
+    }
+
+    &:focus-visible {
+      outline-color: $sta-dark-menu-text-active;
+    }
+
+    &.is-current {
+      color: $sta-dark-menu-text-active;
+      background: rgba($sta-dark-menu-text, 0.14);
+    }
+  }
+}
+
+// Collapse earlier to leave room for Georgian navigation and both language labels.
+@media (max-width: 1199.98px) {
+  #navbar-main {
+    height: auto;
+    min-height: 70px;
+
+    .navbar-brand-mobile-wrapper {
+      position: static;
+      flex: 1;
+      min-width: 0;
+      margin: 0 1rem;
+    }
+
+    .navbar-brand {
+      margin: 0;
+    }
+
+    .navbar-collapse {
+      position: absolute;
+      top: 100%;
+      left: 0;
+      width: 100%;
+      z-index: 1031;
+      background: $sta-menu-primary;
+    }
+
+    .main-menu-item .nav-item {
+      padding: 10px 15px !important;
+    }
+
+    .main-menu-item .nav-item .nav-link {
+      padding: 5px 15px !important;
+    }
+  }
+
+  .dark #navbar-main .navbar-collapse {
+    background: $sta-dark-menu-primary;
+  }
+}
+
+// Give the title and controls their own rows on phones, keeping both labels visible.
+@media (max-width: 767.98px) {
+  #navbar-main {
+    padding-top: 6px;
+    padding-bottom: 6px;
+
+    > .container-xl {
+      display: grid;
+      grid-template-columns: auto minmax(0, 1fr);
+      row-gap: 4px;
+    }
+
+    .navbar-toggler {
+      grid-column: 1;
+      grid-row: 1;
+    }
+
+    .navbar-brand-mobile-wrapper {
+      grid-column: 2;
+      grid-row: 1;
+      justify-content: flex-end;
+      margin: 0 0 0 12px;
+    }
+
+    .navbar-brand {
+      max-width: 100%;
+      font-size: 18px;
+      white-space: normal;
+    }
+
+    .nav-icons {
+      grid-column: 1 / -1;
+      grid-row: 2;
+      justify-self: end;
+      padding-top: 0;
+      padding-bottom: 0;
+    }
+  }
+}

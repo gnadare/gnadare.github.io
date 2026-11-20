@@ -1,0 +1,21 @@
+{{- $current_page := . -}}
+{{- $labels := dict "en" "EN" "ka" "ქართული" -}}
+{{- $names := dict "en" "English" "ka" "ქართული" -}}
+<li class="nav-item language-switch-item">
+  <div class="language-switch" role="group" aria-label="{{ i18n "languages" | default "Languages" }}">
+    {{- range site.Sites -}}
+      {{- $language := .Language.Lang -}}
+      {{- $target := .Home -}}
+      {{- range $current_page.AllTranslations -}}
+        {{- if eq .Language.Lang $language -}}
+          {{- $target = . -}}
+        {{- end -}}
+      {{- end -}}
+      {{- $is_current := eq $current_page.Language.Lang $language -}}
+      <a class="language-link{{ if $is_current }} is-current{{ end }}"
+         href="{{ $target.RelPermalink }}" lang="{{ $language }}" hreflang="{{ $language }}"
+         aria-label="{{ index $names $language | default .Language.LanguageName }}"
+         {{ if $is_current }}aria-current="page"{{ end }}>{{ index $labels $language | default .Language.LanguageName }}</a>
+    {{- end -}}
+  </div>
+</li>

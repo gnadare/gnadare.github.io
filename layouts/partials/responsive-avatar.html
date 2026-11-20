@@ -1,0 +1,9 @@
+{{/* Preserve the 270px portrait layout while serving sharper images on high-DPI screens. */}}
+{{- $avatar_1x := .avatar.Fill "270x270 Center q90" -}}
+{{- $avatar_2x := .avatar.Fill "540x540 Center q90" -}}
+{{- $avatar_3x := .avatar.Fill "810x810 Center q90" -}}
+<img class="avatar {{if eq .shape "square"}}avatar-square{{else}}avatar-circle{{end}}"
+     width="270" height="270"
+     src="{{ $avatar_1x.RelPermalink }}"
+     srcset="{{ $avatar_1x.RelPermalink }} 1x, {{ $avatar_2x.RelPermalink }} 2x, {{ $avatar_3x.RelPermalink }} 3x"
+     alt="{{ .title }}">
