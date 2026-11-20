@@ -1,6 +1,6 @@
 ---
 
-title: Affects of Government Interventions on the Spread of Novel Coronavirus
+title: Effects of Government Interventions on the Spread of Novel Coronavirus
 
 event: Seminar Mathematical Modelling of Epidemics.
 # event_url: 
