@@ -7,7 +7,8 @@ publishDate: '2024-02-12T10:20:26.650242Z'
 publication_types:
 - article-journal
 publication: '*მათემატიკური მეცნიერებების ჟურნალი, ტოკიოს უნივერსიტეტი*. ტომი 33, No. 1, გვერდები 21-47'
+publication_short: '*მათემატიკური მეცნიერებების ჟურნალი, ტოკიოს უნივერსიტეტი*'
 links:
-- name: ჟურნალის ბმული
+- name: ჟურნალის სტატია
   url: https://www.ms.u-tokyo.ac.jp/journal/abstract/jms330102.html
 ---

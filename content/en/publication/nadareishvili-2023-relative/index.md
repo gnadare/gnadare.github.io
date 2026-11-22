@@ -7,6 +7,7 @@ publishDate: '2024-02-12T10:20:26.638400Z'
 publication_types:
 - proceedings
 publication: '*Springer Proceedings in Mathematics & Statistics, vol 450. Springer, Cham.*'
+publication_short: '*Springer Proceedings in Mathematics & Statistics*, vol. 450'
 links:
 - name: DOI
   url: https://doi.org/10.1007/978-3-031-53063-0_4

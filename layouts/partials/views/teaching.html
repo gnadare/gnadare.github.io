@@ -1,0 +1,19 @@
+{{ $item := .item }}
+
+<article class="view-teaching">
+  <h3 class="teaching-title">
+    <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>
+  </h3>
+  {{ with $item.Params.summary }}
+    <p class="teaching-summary">{{ . | markdownify }}</p>
+  {{ end }}
+  {{ with $item.Params.teaching_links }}
+    <ul class="teaching-links">
+      {{ range . }}
+        {{ with site.GetPage . }}
+          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  {{ end }}
+</article>

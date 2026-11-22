@@ -1,6 +1,7 @@
 ---
-title: Advising Students
-summary: 'Information about the diploma projects I supervise at Kutaisi International University.'
+title: Supervision
+summary: 'Student theses and diploma projects I supervise at Kutaisi International University.'
+weight: 20
 tags:
   - Advising Students
 date: '2022-02-18T00:00:00Z'

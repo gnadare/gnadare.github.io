@@ -7,6 +7,8 @@
 
 {{/* Get site logo. */}}
 {{ $show_logo := site.Params.header.navbar.show_logo | default true }}
+{{/* The homepage introduces the author in the biography; retain the home link on inner pages. */}}
+{{ $show_brand := and $show_logo (not .IsHome) }}
 {{ $has_logo := fileExists "assets/media/logo.png" | or (fileExists "assets/media/logo.svg") }}
 {{ $logo := "" }}
 {{ if $has_logo }}
@@ -17,7 +19,7 @@
   <nav class="navbar navbar-expand-xl navbar-light compensate-for-scrollbar" id="navbar-main">
     <div class="container-xl">
 
-      {{if $show_logo}}
+      {{if $show_brand}}
       <div class="d-none d-xl-inline-flex">
         <a class="navbar-brand" href="{{ site.Home.RelPermalink }}">
           {{- if $has_logo -}}
@@ -38,7 +40,7 @@
       </button>
       {{ end }}
 
-      {{if $show_logo}}
+      {{if $show_brand}}
       <div class="navbar-brand-mobile-wrapper d-inline-flex d-xl-none">
         <a class="navbar-brand" href="{{ site.Home.RelPermalink }}">
         {{- if $has_logo -}}

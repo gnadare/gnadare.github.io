@@ -1,0 +1,8 @@
+# Keep the site's existing Latin fonts and load a matching Georgian family.
+name = "Academic bilingual"
+google_fonts = "family=Montserrat:wght@400;600;700&family=Noto+Sans+Georgian:wght@400;600;700&family=Roboto+Mono&family=Roboto:wght@400;500;700"
+
+heading_font = "Montserrat"
+body_font = "Roboto"
+nav_font = "Roboto"
+mono_font = "Roboto Mono"

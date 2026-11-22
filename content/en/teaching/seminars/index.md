@@ -1,6 +1,7 @@
 ---
-title: Scientific Seminars
-summary: 'Seminars in Mathematics and Computer Science that I teach and participate in at various institutions, primarily at Kutaisi International University.'
+title: Seminars
+summary: 'Seminar topics and materials in mathematics and computer science.'
+weight: 30
 tags:
   - Seminars
 date: '2022-02-18T00:00:00Z'

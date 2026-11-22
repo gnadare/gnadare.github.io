@@ -7,7 +7,8 @@ publishDate: '2024-02-12T10:20:26.650242Z'
 publication_types:
 - article-journal
 publication: '*Journal of Mathematical Sciences, the University of Tokyo*. Vol. 33, No. 1, Page 21-47'
+publication_short: '*Journal of Mathematical Sciences, the University of Tokyo*'
 links:
-- name: Link
+- name: Journal article
   url: https://www.ms.u-tokyo.ac.jp/journal/abstract/jms330102.html
 ---

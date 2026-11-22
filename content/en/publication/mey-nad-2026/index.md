@@ -7,7 +7,8 @@ publishDate: '2024-02-12T10:20:26.650242Z'
 publication_types:
 - preprint
 publication: 'Accepted for publication in the *Münster Journal of Mathematics*'
+publication_short: '*Münster Journal of Mathematics* (accepted)'
 links:
-- name: arXiv link
+- name: arXiv
   url: https://arxiv.org/abs/2604.12529
 ---

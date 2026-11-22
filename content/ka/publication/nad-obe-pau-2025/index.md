@@ -8,6 +8,6 @@ publication_types:
 - preprint
 publication: 'პრეპრინტი იხილეთ *arXiv*-ზე'
 links:
-- name: arXiv-ის ბმული
+- name: arXiv
   url: https://arxiv.org/abs/2504.04133
 ---

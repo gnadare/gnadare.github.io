@@ -8,6 +8,6 @@ publication_types:
 - thesis
 publication: 'PhD Thesis, *University of Göttingen*'
 links:
-- name: PDF at Gött. Publ.
+- name: Repository
   url: http://hdl.handle.net/11858/00-1735-0000-0028-867A-A
 ---

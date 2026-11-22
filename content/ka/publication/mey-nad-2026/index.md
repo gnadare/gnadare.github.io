@@ -7,7 +7,8 @@ publishDate: '2024-02-12T10:20:26.650242Z'
 publication_types:
 - preprint
 publication: 'მიღებულია გამოსაქვეყნებლად *Münster Journal of Mathematics-ში*'
+publication_short: '*Münster Journal of Mathematics* (მიღებულია)'
 links:
-- name: arXiv-ის ბმული
+- name: arXiv
   url: https://arxiv.org/abs/2604.12529
 ---

@@ -1,6 +1,10 @@
 ---
-title: University Courses
-summary: 'The university-level courses I teach at various places, primarily at Kutaisi International University.'
+title: University courses
+summary: 'Course outlines and lecture notes in mathematics and theoretical computer science.'
+weight: 10
+teaching_links:
+  - /courses/itc
+  - /courses/lacs
 tags:
   - University Courses
 date: '2022-02-18T00:00:00Z'
