@@ -6,9 +6,8 @@
 {{ $highlight_active_link := site.Params.header.navbar.highlight_active_link | default true }}
 
 {{/* Get site logo. */}}
-{{ $show_logo := site.Params.header.navbar.show_logo | default true }}
-{{/* The homepage introduces the author in the biography; retain the home link on inner pages. */}}
-{{ $show_brand := and $show_logo (not .IsHome) }}
+{{/* Honor an explicit false on every page, for both desktop and mobile branding. */}}
+{{ $show_brand := ne site.Params.header.navbar.show_logo false }}
 {{ $has_logo := fileExists "assets/media/logo.png" | or (fileExists "assets/media/logo.svg") }}
 {{ $logo := "" }}
 {{ if $has_logo }}
